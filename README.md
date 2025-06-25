@@ -19,4 +19,7 @@ Check for new essays nightly (UTC). If yes, update RSS feed.
 
 ## Todo
 
-- [x] Validate RSS feed.
+- [x] Validate the RSS feeds.
+- [x] Update feeds only when there are new essays.
+- [x] Modernize action workflow.
+- [x] Actually update feed_without_content.xml.

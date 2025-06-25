@@ -71,11 +71,10 @@ def generate_rss_feed(articles, file):
     fg.author({'name':'Paul Graham'})
     fg.link(href='http://www.paulgraham.com/', rel='alternate')
     fg.description('Scraped feed by https://github.com/rlan/pgessays-rss')
-    fg.link(href=f"https://raw.githubusercontent.com/rlan/pgessays-rss/main/{file}", rel='self')
     fg.language('en')
 
     for article in articles:
-        fe = fg.add_entry()
+        fe = fg.add_entry(order='append')
         fe.title(article['title'])
         #fe.id(article['url'])
         fe.guid(guid=article['url'], permalink=True)
