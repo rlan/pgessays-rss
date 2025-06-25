@@ -27,9 +27,11 @@ jobs:
       - name: Commit and push feed
         run: |
           if cmp --silent -- "articles.md5.previous" "articles.md5"; then
+            echo "No changes"
+          else
             cp articles.md5 articles.md5.previous
-            git config --global user.name 'github-actions[bot]'
-            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            git config --global user.name "${{ github.actor }}"
+            git config --global user.email "${{ github.actor }}@users.noreply.github.com"
             git add articles.md5.previous feed.xml feed_without_content.xml
             git commit -m 'Update RSS feed'
             git push
