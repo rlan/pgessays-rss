@@ -1,9 +1,8 @@
-import datetime
 import filecmp
 import hashlib
 import json
-from textwrap import dedent
 
+from feedgen.feed import FeedGenerator
 import requests
 from bs4 import BeautifulSoup
 
@@ -64,42 +63,27 @@ def fetch_articles():
     return articles
 
 
-def generate_rss_feed(articles):
+def generate_rss_feed(articles, file):
     """Generates the RSS feed with articles and their content."""
-    now = datetime.datetime.now(datetime.UTC).strftime("%a, %d %b %Y %H:%M:%S GMT")
-
-    rss_feed = dedent(f"""
-    <?xml version="1.0"?>
-    <rss version="2.0">
-    <channel>
-    <title>Paul Graham: Essays</title>
-    <link>{BASE_URL}</link>
-    <description>Scraped feed of essays from paulgraham.com</description>
-    <lastBuildDate>{now}</lastBuildDate>
-    """)
+    fg = FeedGenerator()
+    fg.id('http://www.paulgraham.com/')
+    fg.title('Paul Graham: Essays')
+    fg.author({'name':'Paul Graham'})
+    fg.link(href='http://www.paulgraham.com/', rel='alternate')
+    fg.description('Scraped feed by https://github.com/rlan/pgessays-rss')
+    fg.link(href=f"https://raw.githubusercontent.com/rlan/pgessays-rss/main/{file}", rel='self')
+    fg.language('en')
 
     for article in articles:
-        one = dedent(f"""
-        <item>
-        <title>{article['title']}</title>
-        <link>{article['url']}</link>
-        """)
+        fe = fg.add_entry()
+        fe.title(article['title'])
+        #fe.id(article['url'])
+        fe.guid(guid=article['url'], permalink=True)
+        fe.link(href=article['url'])
         if "content" in article:
-            one += f"""<description><![CDATA[{article['content']}]]></description>\n"""
-        one += """</item>"""
-        rss_feed += one
+            fe.description(article['content'])
 
-    rss_feed += dedent("""
-    </channel>
-    </rss>
-    """)
-    return rss_feed
-
-
-def save_rss_feed(rss_feed, file):
-    """Saves the RSS feed to a file."""
-    with open(file, "w") as f:
-        f.write(rss_feed)
+    fg.rss_file(file)
 
 
 def generate_hash(articles, file):
@@ -117,11 +101,9 @@ def main():
     if filecmp.cmp(PREVIOUS_HASH_FILE, HASH_FILE):
         print("No new articles")
     else:
-        rss_feed = generate_rss_feed(articles)
-        save_rss_feed(rss_feed, FEED_FILE_WITHOUT_CONTENT)
+        generate_rss_feed(articles, FEED_FILE_WITHOUT_CONTENT)
         fetch_content(articles) # modifies articles object
-        rss_feed = generate_rss_feed(articles)
-        save_rss_feed(rss_feed, FEED_FILE)
+        generate_rss_feed(articles, FEED_FILE)
         print(f"RSS feed generated with {len(articles)} articles")
 
 

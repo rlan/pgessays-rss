@@ -16,3 +16,7 @@ Check for new essays nightly (UTC). If yes, update RSS feed.
 - [RSS feed](https://github.com/Olshansk/pgessays-rss) by Daniel Olshansky.
 - [RSS feed](https://paulgraham.com/rss.html) by Aaron Swartz.
 - [Essays](https://paulgraham.com/articles.html) by Paul Graham.
+
+## Todo
+
+- [x] Validate RSS feed.
