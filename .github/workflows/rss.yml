@@ -26,8 +26,7 @@ jobs:
 
       - name: Commit and push feed
         run: |
-          diff articles.md5.previous articles.md5
-          if [ $? -ne 0 ]; then
+          if cmp --silent -- "articles.md5.previous" "articles.md5"; then
             cp articles.md5 articles.md5.previous
             git config --global user.name 'github-actions[bot]'
             git config --global user.email 'github-actions[bot]@users.noreply.github.com'
