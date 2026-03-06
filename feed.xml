@@ -1,5 +1,865 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Paul Graham: Essays</title><link>http://www.paulgraham.com/</link><description>Scraped feed by https://github.com/rlan/pgessays-rss</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Wed, 25 Jun 2025 17:51:10 +0000</lastBuildDate><item><title>The Shape of the Essay Field</title><link>https://www.paulgraham.com/field.html</link><description>June 2025
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Paul Graham: Essays</title><link>http://www.paulgraham.com/</link><description>Scraped feed by https://github.com/rlan/pgessays-rss</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>en</language><lastBuildDate>Fri, 06 Mar 2026 01:59:30 +0000</lastBuildDate><item><title>The Brand Age</title><link>https://www.paulgraham.com/brandage.html</link><description>March 2026
+In the early 1970s disaster struck the Swiss watch industry. Now
+people call it the quartz crisis, but in fact it was a compound of
+three separate disasters that all happened at about the same time.
+The first was competition from Japan. The Swiss had been watching
+the Japanese in the rear view mirror all through the 1960s, and
+they'd been improving at an alarming rate. But even so the Swiss
+were surprised in 1968 when the Japanese swept all the top spots
+for mechanical watches at the Geneva Observatory trials.
+The Swiss knew what was coming. For years the Japanese had been
+able to make cheaper watches. Now they could make better ones too.
+To make matters worse, Swiss watches were about to become much more
+expensive. The Bretton Woods agreement, which since 1945 had fixed
+the exchange rates of most of the world's currencies, had set the
+Swiss Franc at an artificially low rate of .228 USD. When Bretton
+Woods collapsed in 1973, the Franc shot upward. By 1978 it reached
+.625 USD, meaning Swiss watches were now 2.7 times as expensive for
+Americans to buy.
+[
+1
+]
+The combined effect of foreign competition and the loss of their
+protective exchange rate would have decimated the Swiss watch
+industry even if it hadn't been for quartz movements. But quartz
+movements were the final blow. Now the whole game they'd been trying
+to win at became irrelevant. Something that had been expensive —
+knowing the exact time — was now a commodity.
+Between the early 1970s and the early 1980s, unit sales of Swiss
+watches fell by almost two thirds. Most Swiss watchmakers became
+insolvent or close to it and were sold. But not all of them. A
+handful survived as independent companies. And the way they did it
+was by transforming themselves from precision instrument makers
+into luxury brands.
+In the process the nature of the mechanical watch was also transformed.
+The most expensive watches have always cost a lot, but why they
+cost a lot and what buyers got in return have changed completely.
+In 1960 expensive watches cost a lot because they cost a lot to
+manufacture, and what the buyer got in return was the most accurate
+timekeeping device, for its size, that could be made. Now they cost
+a lot because brands spend a lot on advertising and use tricks to
+limit supply, and what the buyer gets in return is an expensive
+status symbol.
+That turns out to be a profitable business though. The Swiss watch
+industry probably makes more now from selling brand than they would
+have if they were still selling engineering. And indeed, when you
+look at the graph of Swiss watch sales by revenue, it tells a
+different story than the graph of unit sales. Instead of falling
+off a cliff, the revenue numbers merely flatten out for a while,
+and then take off like a rocket in the late 1980s as the surviving
+watchmakers come to terms with their new destiny.
+It took the watchmakers about 20 years to figure out the new rules
+of the game. And it's interesting to watch them do it, because the
+completeness of their transformation makes it the perfect case study
+in one of the most powerful forces of our era: brand.
+Brand is what's left when the substantive differences between
+products disappear. But making the substantive differences between
+products disappear is what technology naturally tends to do. So
+what happened to the Swiss watch industry is not merely an interesting
+outlier. It's very much a story of our times.
+Jaeger-LeCoultre's web site says that one of their current collections
+"takes its inspiration from the classic designs of the golden age
+of watchmaking." In saying this they're implicitly saying something
+that present-day watchmakers all know but rarely come so close to
+saying outright: whatever age we're in now, it's not the golden
+age.
+The golden age was from 1945 to 1970 — from the point where the
+watch industry emerged from the chaos of war with the Swiss on top
+till the triple cataclysm that struck it starting in the late 60s.
+There were two things watchmakers sought above all in the golden
+age: thinness and accuracy. And indeed this was arguably the essential
+tradeoff in watchmaking. A watch is something you carry with you
+to tell you the time. So there are two fundamental ways to improve
+it: to make it easier to carry with you and to make it better at
+telling the time.
+Obviously accuracy is valuable, but in the golden age thinness was
+if anything more valuable. Even in the days of pocket watches the
+best watchmakers tried to make their watches as thin as they could.
+Cheap, thick pocket watches were derided as "turnips." But thinness
+took on a new urgency when men's watches moved onto their wrists
+during World War I. And since thinness was more difficult to achieve
+than accuracy, it was this quality that tended to distinguish the
+more expensive watches of the golden age.
+There is one other thing watchmakers have pursued in some eras:
+telling more than the time in the usual way. Telling you the phase
+of the moon, for example, or telling the time with sound. In the
+industry the term for these things is "complications." They were
+popular in the nineteenth century and they're popular again now,
+but except for one pragmatic complication (showing the date), they
+were a sideshow in the golden age. In the golden age, as always in
+golden ages, the top watchmakers focused on the essential tradeoff.
+And, as always in golden ages, they did it beautifully. The best
+watches of the golden age have a
+quiet perfection
+that has never
+been equalled since. And for reasons I'm about to explain, probably
+never will be.
+The three most prestigious brands of the golden age were the so-called
+"holy trinity" of Patek Philippe, Vacheron Constantin, and Audemars
+Piguet. Their prestige was mostly deserved; they had earned it by
+the exceptional quality of their work. By the 1960s they stood on
+two legs, prestige and performance. And what they learned in the
+next two decades was that they had to put all their weight on the
+first leg, because they could no longer win at either of the two
+things watchmakers had historically striven to achieve. Quartz
+movements were not only more accurate than any mechanical movement,
+but thinner too.
+The holy trinity at least had another leg to stand on. Most of the
+other well-known Swiss watchmakers sold only performance. None of
+those companies survived intact.
+Omega showed what not to do. Omega were the nerds of Swiss watchmakers.
+They made wonderfully accurate watches, but they would have been
+ambivalent, at best, about the idea of being a luxury brand. When
+the Japanese got as good as the Swiss at making accurate movements,
+Omega responded in the Omega way: make even more accurate movements.
+They introduced a new movement in 1968 that ran at a 45% higher
+frequency. In theory this should have made it more accurate, but
+the new movement was so fragile that it destroyed their reputation
+for reliability. They even tried to make a better quartz movement,
+but there was nothing down that road but a race to the bottom. By
+1981 they were insolvent and were taken over by their creditors.
+Patek Philippe took the opposite approach. While Omega was redesigning
+their movements, Patek was redesigning their cases. Or more precisely,
+designing their cases, because until then they hadn't.
+This is probably the point to mention what a strange beast the Swiss
+watch industry was in those days. It was a kind of capitalism that's
+hard to imagine today, and even then could only have been made to
+work in a country like Switzerland — a network of small, specialized
+companies locked into place by regulation. The companies that we
+for convenience have been calling watchmakers were merely the
+consumer-facing edge of this network. The holy trinity didn't design
+their own cases, or even their own movements most of the time.
+In 1968 (that year again) Patek Philippe launched a new watch that
+shifted the center of gravity of case design. This time they'd taken
+their own designs to the casemakers and said "this is what you're
+going to make for us." The result was a striking new model called
+the
+Golden Ellipse
+. Somewhat confusingly, because it wasn't elliptical.
+The new case was more of what UI designers would call a round rect:
+a rectangle with rounded corners. And this new family of watches
+was quite successful. But it was more than that: it was the pattern
+for the future.
+[
+2
+]
+How could merely designing a distinctive case be so important?
+Because it turned the entire watch into an expression of brand.
+The trouble with the best watches of the golden age, from the point
+of view of someone who wanted to impress people with the brand of
+watch he was wearing, was that no one could tell what brand of watch
+you were wearing. Until you got within a few inches of them, the
+watches of all the top makers looked the same. That's the thing
+about minimalism: there tends to be just one answer. Plus the watches
+of the golden age were small by present standards. Watchmakers had
+spent centuries working to make them smaller, and by 1960 they'd
+gotten very good at it. So the only thing distinguishing one top
+brand from another was the name printed on the dial, and dials were
+so small that these names were tiny. The manufacturers' names on
+the holy trinity's golden age watches are between half and three
+quarters of a millimeter high. So by taking over the case, Patek
+expanded the size of the brand from 8 square millimeters to 800.
+Why did they suddenly decide to make their brand shout, after a
+century of whispering? Because they knew they weren't going to beat
+the Japanese on performance. From now on they'd have to depend more
+on brand.
+There's a cost to doing this, which we can see even in this early
+example of case-as-brand. Golden Ellipses are not bad looking. They
+must have looked even cooler in the 1970s, when designers were
+turning everything into round rects. But the Golden Ellipse was not
+an evolutionary step forward in case design. Watches didn't all
+become round rects. Watchmakers had already discovered the optimal
+shape for the case of something that describes a circle as it
+rotates.
+They had also discovered the optimal shape for the crown, the knob
+on the side of a watch that you turn to wind it. But to emphasize
+the distinctive profile of the Ellipse, Patek made the crown too
+small, with the result that they're distractingly hard to wind.
+[
+3
+]
+So even in this early example we see an important point about the
+relationship between brand and design. Branding isn't merely
+orthogonal to good design, but opposed to it. Branding by definition
+has to be distinctive. But good design, like math or science, seeks
+the right answer, and right answers tend to converge.
+Branding is centrifugal; design is centripetal.
+There is some wiggle room here of course. Design doesn't have as
+sharply defined right answers as math, especially design meant for
+a human audience. So it's not necessarily bad design to do something
+distinctive if you have honest motives. But you can't evade the
+fundamental conflict between branding and design, any more than you
+can evade gravity.
+Indeed, the conflict between branding and design is so fundamental
+that it extends far beyond things we call design. We see it even
+in religion. If you want the adherents of a religion to have customs
+that set them apart from everyone else, you can't make them do
+things that are convenient or reasonable, or other people would do
+them too. If you want to set your adherents apart, you have to make
+them do things that are inconvenient and unreasonable.
+It's the same if you want to set your designs apart. If you choose
+good options, other people will choose them too.
+There are only two ways to combine branding and good design. You
+can do it when the space of possibilities is enormously large, as
+it is in painting for example. Leonardo could paint as well as he
+possibly could and yet also paint in a style that was distinctively
+his. If there had been a million painters as good as Bellini and
+Leonardo this would have been harder to do, but since there were
+more like ten they didn't bump up against one another much.
+[
+4
+]
+The other situation when branding and good design can be combined
+is when the space of possibilities is comparatively unexplored. If
+you're the first to arrive in some new territory, you can both find
+the right answer and claim it as uniquely yours. At least at first;
+if you've really found the right answer, everyone else's designs
+will inevitably converge on yours, and your brand advantage will
+erode over time.
+Since the space of watch design is neither unexplored nor enormously
+large, branding can only be achieved at the expense of good design.
+And in fact if you wanted one sentence to describe the current age
+of watchmaking, that one would do pretty well.
+Patek Philippe didn't know for sure that making visibly branded
+watches would work. It was not even their only strategy, at the
+time. They were finding their way. But it was the strategy that did
+work, at least as measured by revenues.
+For it to work the customers had to meet them halfway. Patek knew
+that not all their customers were buying their watches for the
+performance they delivered — for their accuracy and thinness. They
+knew that at least some customers were buying them because they
+were expensive. But it was unclear how many, or how far they could
+be pushed.
+To encourage them, Patek did something that none of the holy trinity
+had done much of before: brand advertising. And what they talked
+about was how expensive their watches were. A 1968 Patek ad explained
+"why you are well advised to invest perhaps half a month's income"
+in an Ellipse. "Like every Patek Philippe," the ad continued, "this
+thin model is entirely finished by hand. Since a Patek Philippe is
+the costliest watch to make, production is severely limited: only
+43 watches are signed out each day for delivery to prominent jewelers
+throughout the world."
+[
+5
+]
+You can tell this is an early ad because they still mention thinness.
+But there is no mention of accuracy. Presumably Patek felt that
+battle was already lost.
+The next move was made by Audemars Piguet, who in 1970 commissioned
+the renowned designer Gérald Genta to design their own iconic watch,
+this one, daringly, in steel. The result, launched in 1972, was the
+Royal Oak
+. 
+And Audemars Piguet's ads (for they too now started doing
+brand advertising) emphasized its high cost even more dramatically.
+"Introducing steel at the price of gold," one began. "You're looking
+at the costliest stainless steel watch in the world — the Audemars
+Piguet 'Royal Oak'. What makes it even more precious than gold is
+the time that went into building it, by a vanishing breed of master
+watchmakers." At the bottom of the ad they turn the traditional
+formula on its head and describe their watches as being "priced
+from $35,000 and down."
+The Royal Oak was also a step forward in surface area devoted to
+brand. The Golden Ellipse had turned the watch face into an expression
+of brand, but it used ordinary straps and bracelets. In the Royal
+Oak, the watch face was integrated with a metal bracelet that
+continued its design all the way around the wrist. When it said
+"You're looking at the costliest stainless steel watch in the world,"
+it said it with every square millimeter of surface area.
+Would customers buy this new approach? The initial results were
+moderately encouraging. The holy trinity's sales didn't take off,
+but they didn't go down to zero either. There were at least some
+people out there responding to the new message. Perhaps if they
+kept at it the number would grow.
+So they did. Encouraged by the success of the Royal Oak, Patek
+Philippe commissioned Gérald Genta in 1974 to design a similar watch
+for them. The design of the Royal Oak had been inspired by a ship's
+porthole, so the design of this new watch would be inspired by...
+a ship's porthole. It was called the
+Nautilus
+, and it launched at
+the Basel Watch Fair in 1976.
+In the Nautilus we really see the incompatibility of branding and
+design. It was huge. The most expensive men's watches at the peak
+of the golden age were typically 32 or 33 millimeters in diameter.
+The Nautilus was 42 millimeters. And as well as being huge it had
+gratuitous knobs on either side of the face, like a pair of ears.
+But you could recognize one from across the room.
+Of all the watches Patek makes now, the Nautilus is the most sought
+after. It's perfectly aligned with what present-day buyers want — 
+basically, the loudest possible expression of brand. But in 1976
+it was ahead of its time. In 1976 it was still a little too much.
+The watch that finally turned Patek's fortunes around was another
+iconic design, the hobnail calatrava. The hobnail calatravas were
+so called because they were decorated with tiny pyramid-shaped
+spikes. That was enough to make them look distinctive. But except
+for the hobnails they were basically golden age dress watches.
+The hobnail calatrava was apparently the brainchild of René Bittel,
+the head of Patek Philippe's ad agency. It was not a new design.
+Many watchmakers had decorated their cases with hobnails over the
+years, and there had been a Patek model with them since 1968. But
+in 1984 Bittel told Patek president Philippe Stern, in effect: make
+this your standard design, and I'll create an ad campaign to identify
+it in people's heads with your brand.
+[
+6
+]
+It worked spectacularly well. The resulting watch, the
+3919
+, is
+known as the "banker's watch" because it became so popular among
+investment bankers in New York in the 80s and 90s. Up to this point
+Patek had been hedging their bets, making quartz watches as well,
+and arguing defensively in their ads that quartz watches in fancy
+cases were almost as laborious to make as mechanical ones. But the
+ibankers bought the full mechanical story. They didn't even need
+self-winding mechanical watches; the 3919 was hand-wound. So be it.
+Patek stopped talking about quartz movements. And their sales, which
+had been flat since the early 70s, were by 1987 on a clear upward
+trajectory that has continued to this day.
+It's hard to say for sure whether the critical ingredient was
+Bittel's skill at advertising or a receptive audience, but as someone
+who knew these investment bankers, I'd lean toward the audience.
+These were the people for whom the term "yuppy" was coined. Living
+expensively was one of the things they were best known for. If
+anyone was going to adopt a new way to display wealth, it would be
+them. Whereas if Bittel had sent the same message ten years earlier,
+there might have been no one to hear it.
+Whatever the cause, something happened in the second half of the
+1980s, because that's when all the numbers finally start going up
+again. Up till about 1985 it was still not clear what would happen
+with mechanical watches. By 1990 it was. By 1990 the custom of using
+expensive, highly-branded, conspicuously mechanical watches as
+status symbols was firmly established.
+[
+7
+]
+Obsolete technologies don't usually get adopted as ways to display
+wealth. Why did it happen with mechanical watches? Because the
+wristwatch turns out to be the perfect vehicle for it. Where better
+than right on your wrist, where everyone can see it? And more to
+the point, what better to do it with? You could wear a diamond ring
+or a gold chain, but those would have seemed socially dubious to
+investment bankers. They might have been barbarians, but they weren't
+mafia. Whereas nothing could be more legit than a gold watch. The
+chairman of the company was still wearing one his wife gave him 20
+years ago, before quartz watches were even a thing. If the increasing
+pressure to display wealth was going to emerge anywhere, this was
+the place.
+[
+8
+]
+For men, at least. Women never really went for the idea of wearing
+mechanical watches. Most rich women are happy wearing a Cartier
+tank with a quartz movement. Why the difference? Partly for the
+same reason that most buyers of steam engines are men. But the main
+reason is that expensive mechanical watches now serve as de facto
+jewelry for men, and women don't need de facto jewelry because they
+can wear actual jewelry.
+It was critical, though, that mechanical watches were accurate
+enough
+. A new 3919 would have been off by no more than 5 seconds
+a day. That was nowhere near as good as quartz. Even the cheapest
+mass market quartz watches were accurate to half a second a day,
+and the best ones were accurate to 3 seconds a year. But in practice
+you didn't need that kind of accuracy. If mechanical watches had
+only been accurate to a minute a day they couldn't have made the
+leap from keeping time to displaying wealth. It would have seemed
+too manifestly unluxurious to have a watch that always had the wrong
+time. But 5 seconds a day was close enough.
+[
+9
+]
+This is an important point about the relationship between brand and
+quality. Quality doesn't stop mattering when a product switches to
+something people buy for its brand. But the way it matters changes
+shape. It becomes a threshold. It no longer has to be so great that
+it sells the product; brand sells the product; but it does have to
+be good enough to maintain the brand's reputation. The brand must
+not break character.
+It was a lucky thing for the watchmakers that yuppies arose just
+in time to save them. Or maybe not so lucky. Because the evolution
+of the market that yuppies represented has continued with a vengeance,
+and watchmakers have perforce been dragged along with it. If they
+don't make gigantic blingy watches for buyers in Hong Kong and
+Dubai, someone else will. So that is what they now find themselves
+doing. And what began with a few comparatively subtle examples of
+the conflict between branding and design is now an all out
+war
+on
+design.
+The present era of mechanical watchmaking doesn't yet have a name.
+But if we need one, it's obvious what it should be: the brand age.
+The golden age ran from 1945 to 1970, followed by the quartz crisis
+from 1970 to 1985. Since 1985 we've been in the brand age.
+This won't be the only brand age. Indeed, it's not even the first;
+fine art has been in its own brand age since the establishment of
+the Barr canon in the 1930s. And since we'll probably see more of
+this kind of thing, it would be worth taking some time to look at
+what a brand age is like.
+How are things different now from the way they were in the golden
+age? The best way to answer that might be to imagine what someone
+from the golden age would notice if we brought him here in a time
+machine.
+The first thing he'd notice, if he walked through a fancy shopping
+district, is that all the prominent watchmakers of the golden age
+seem to be doing better than ever. They're not only all still around,
+but most now have their own boutiques instead of depending on
+jewelers to sell their products as they used to back in the day.
+In fact this is an illusion. Only three watchmakers survived the
+dark days of the 70s and 80s as independent companies: Patek Philippe,
+Audemars Piguet, and Rolex. All the rest are owned by six holding
+companies, which reinflated them as it became clear that mechanical
+watches would have a second life as luxury accessories for men.
+Instead of separate companies they're now more like the brands
+that got rolled up into the big three American automakers: they're
+ways for their parent companies to target different segments of the
+market. So Longines, for example, no longer competes with Omega,
+because the company that owns them both has assigned it a lower
+tier of the market.
+[
+10
+]
+There's a reason the Vacheron Constantin boutique looks so much
+like the IWC and Jaeger-LeCoultre boutiques, and for that matter
+the Montblanc and Cartier boutiques. They're all owned by the same
+company. It's similar with clothing brands, incidentally. When you
+walk through a town's fanciest shopping district, what seem to be
+the shops of lots of different brands are actually owned by a handful
+of conglomerates. That's one reason these districts seem so sterile;
+like suburbs built by a single developer, they have an unnatural
+lack of variety.
+When our time traveler peered into the windows of these shops, the
+first thing he'd notice was how large all the watches were. This
+would surprise him, because in the golden age, as indeed in all the
+preceding centuries, big meant cheap. An expensive golden age men's
+watch might have been 33 millimeters in diameter and 8 millimeters
+thick. An expensive watch today will be more like 42 millimeters
+in diameter and 10 millimeters thick — more than double the size.
+It would astonish our visitor to look through the windows of what
+were clearly very fancy shops and see what seemed to be cheap
+watches.
+[
+11
+]
+We know how this happened. When watches switched from telling time
+to telling brand, they grew in size to be better at it. And not
+just in size, but in shape too. That's another thing our time
+traveler would notice: the surprising variety of strange case shapes
+and awkward protrusions that have been produced as the centrifugal
+tendency of branding played out. What, he'd wonder, is going on
+with the huge guards on the crowns of those Panerais? What do people
+do with these watches that makes the crown need such protection?
+And why would a crown guard have a message engraved on it saying
+that it's a registered trademark? It's obvious to us what's going
+on here, but imagine how confusing it would be to someone from the
+golden age, when form followed function.
+[
+12
+]
+As he puzzled over this strange assortment of bulky watches, he'd
+notice a further pattern. He'd realize that a surprisingly large
+number of them looked like a specific brand of bulky watch he was
+already familiar with.
+I haven't talked about Rolex so far, because Rolex didn't have to
+do much to adapt to the new era. They already had one foot in the
+brand age during the golden age. Early in their history they put a
+lot of effort into making their watches better, but they "stopped
+taking part in competitions in Geneva and Neuchâtel at the end of
+the 1950s," and from about 1960 "largely abandoned research into
+mechanical watchmaking."
+[
+13
+]
+The reason was not that they'd become
+lazy, but that they'd discovered they could make sales grow faster
+by marketing their watches as status symbols. So that became their
+focus during the 1960s, and by the time the quartz crisis hit ten
+years later, their customers were self-selected to be people who
+didn't care that much what was inside a watch, so long as it was
+recognizably a Rolex.
+And they were far ahead of other watchmakers in that department.
+They already had in the 1940s what we saw Patek Philippe and Audemars
+Piguet struggling to create in the 1970s and 80s: a case that
+immediately proclaimed the brand of the maker. The Rolex look seems
+to have evolved organically, but once it did, they realized how
+important it was. In fact they pitched it as one of the features
+of their watches. A 1960s Rolex ad says "You can recognize its
+classic shape, carved out of a block of solid gold, from the other
+end of the conference table."
+Indeed Rolex was ahead of its time in both dimensions: their cases
+were not merely recognizable, but big too, at least by golden age
+standards. That was not the result of clever marketing, though. It
+was a byproduct of the founder Hans Wilsdorf's obsession with
+building waterproof watches.
+As its name suggests, that was the raison d'etre of the Rolex Oyster.
+Watches like the Oyster were designed to be tough, like Jeeps. In
+the golden age there were two poles of watch design. At one end
+were tool watches, which were thick, tough, and usually made of
+steel. At the other end were dress watches, which were thin, elegant,
+and usually made of gold. But Rolex blurred the line between them.
+When they made thick, tough watches, they made them out of gold as
+well as steel. The result was a sort of luxury Jeep. And if that
+phrase didn't ring a bell in your head, stop and think about it,
+because that is exactly what everyone is driving now. That's what
+SUVs are, luxury Jeeps. What happened to watches is the same thing
+that happened to cars. And indeed if our time traveler turned and
+saw a Porsche Cayenne pass by and realized what it was — a huge,
+pseudo-offroad vehicle meant to recall the Porsche 911 — he might
+have been even more shocked than he was by the watches he'd been
+looking at.
+[
+14
+]
+If the time traveller walked into a Patek Philippe boutique and
+actually tried to buy a Nautilus, he'd get the biggest shock of
+all. They wouldn't sell him one. Because at Patek he'd encounter
+the most extreme brand age phenomenon: artificial scarcity. You
+can't just buy a Nautilus. You have to spend years proving your
+loyalty first by buying your way through multiple tiers of other
+models, and then spend years on a waiting list.
+[
+15
+]
+Obviously this strategy sells more watches. But it also supports
+retail prices by keeping watches off the secondary market. A company
+using artificial scarcity to drive sales can't allow too many of
+the scarce models to leak into the secondary market, or they stop
+being scarce. The ideal is the watch equivalent of carbon sequestration:
+for the people who buy their watches to keep them till they die.
+To push the market toward this ideal, Patek squeezes from both sides
+of the sale. They weed out flippers by making the path to the scarce
+models so costly in both time and money — so inconvenient and
+unreasonable — that only a genuine fan would endure it. The lower
+tier watches sell for below retail on the secondary market, because
+Patek
+doesn't
+restrict their supply, so a would-be flipper should
+have to spend years making money-losing purchases before he could
+even get something he could flip at a profit. Apparently some people
+still manage to beat this system though, so Patek's countermeasures
+don't end there. They keep a vigilant eye on secondary sales to see
+who's selling their watches. Auction listings usually include serial
+numbers, so those are easy to trace, but if necessary they'll rebuy
+their own watches on the secondary market to get the serial number
+and trace the leak. They buy hundreds a year. And when they catch
+someone selling watches they don't want them to, they don't just
+cut off that customer. If a retailer's customers are responsible
+for too many such leaks, they'll cut off the whole retailer. Which
+naturally makes retailers eager to help them police buyers.
+There will of course always be some leaks into the secondary market.
+Even the most loyal customers die at a certain rate. And in fact
+it's critical for Patek that the secondary market continue to exist,
+because it's one of the most valuable sources of information they
+have about the most important question they face: how fast to
+increase the supply of the top tier watches. Their scarcity helps
+drive the purchases of all the others, so those that do make it
+into the secondary market should always sell for above retail. And
+I'm sure Patek leaves a large margin for error when increasing
+supply, because if secondary market prices for these watches get
+close to retail prices, you're getting close to a price collapse
+— which, since people now buy these watches as investments, would
+have the same disastrous cascading effect as the bursting of an
+asset bubble. It wouldn't just be like the bursting of an asset
+bubble. It would
+be
+the bursting of an asset bubble. That's the
+business an elite watchmaker is in now: carefully managing a sustained
+asset bubble.
+[
+16
+]
+This is an instance of what I call the comb-over effect: when a
+series of individually small changes takes you from something that's
+a little bit off to something that's freakishly wrong. I'm sure
+Patek didn't cook up this whole scheme in one shot; I'm sure it
+evolved gradually. But look at what a strange place we've ended up
+in. Back in the golden age the way you bought a Patek Philippe was
+to go to a jeweler and give them money. Now Patek is policing buyers
+to maintain an asset bubble.
+The most striking thing to me about the brand age is the sheer
+strangeness of it. The zombie watch brands that appear to be
+independent and even have their own retail stores, and yet are all
+owned by a few holding companies. The giant, awkwardly shaped watches
+that reverse 500 years of progress in making them smaller. The
+business model that requires a company to rebuy their own watches
+on the secondary market to catch rogue customers. The very concept
+of rogue customers. It's all so strange. And the reason it's strange
+is that there's no function for form to follow.
+Up to the end of the golden age, mechanical watches were necessary.
+You needed them to know the time. And that constraint gave both the
+watches and the watchmaking industry a meaningful shape. There were
+certainly some strange-looking watches made during the golden age.
+They weren't all beautifully minimal. But when golden age watchmakers
+made a strange-looking watch, they knew they were doing it. In fact
+they give the impression of having done it as a deliberate exercise,
+to avoid getting into a rut.
+That's not why brand age watches look strange. Brand age watches
+look strange because they have no practical function. Their function
+is to express brand, and while that is certainly a constraint, it's
+not the clean kind of constraint that generates good things. The
+constraints imposed by brand ultimately depend on some of the worst
+features of human psychology. So when you have a world defined only
+by brand, it's going to be a weird, bad world.
+Well that was dark. Is there some edifying lesson we can salvage
+from the wreckage?
+One obvious lesson is to stay away from brand. Indeed it's probably
+a good idea not just to avoid buying brand, but to avoid selling
+it too. Sure, you might be able to make money this way — though I
+bet it's harder than it looks — but pushing people's brand buttons
+is just not a good problem to work on, and it's hard to do good
+work without a good problem.
+The more subtle lesson is that fields have natural rhythms that are
+beyond the power of individuals to resist. Fields have golden ages
+and not so golden ages, and you're much more likely to do good work
+in a field that's on the way up.
+Of course they don't call them golden ages as they're happening.
+"Golden age" is a term people use later, after they're over. That
+doesn't mean that golden ages aren't real, but rather that their
+participants take them for granted at the time. They don't know how
+good they have it. But while it's usually a mistake to take one's
+good fortune for granted, it's not in this case. What a golden age
+feels like, at the time, is just that smart people are working hard
+on interesting problems and getting results. It would be overfitting
+to optimize for more than that.
+In fact there's a single principle that will both save you from
+working on things like brand, and also automatically find golden
+ages for you. Follow the problems.
+The way to find golden ages is not to go looking for them. The way
+to find them — the way almost all their participants have found
+them historically — is by following interesting problems. If you're
+smart and ambitious and honest with yourself, there's no better
+guide than your taste in problems. Go where interesting problems
+are, and you'll probably find that other smart and ambitious people
+have turned up there too. And later they'll look back on what you
+did together and call it a golden age.
+Notes
+[
+1
+]
+The Bretton Woods agreement didn't fix exchange rates between
+currencies directly. It fixed each relative to gold. Obviously this
+also fixed them relative to one another.
+[
+2
+]
+The Golden Ellipse isn't quite a round rect, because the sides
+aren't quite flat. It's similar in shape to the superellipses
+popularized by Piet Hein in the early 1960s, and in fact that may
+be where they got the name. But mathematically it's not an actual
+superellipse. My guess is that Patek's designer just experimented
+with French curves till he got something he liked. And to be fair
+it is a good shape.
+[
+3
+]
+It was ironic that Patek Philippe of all companies made this
+mistake, because Adrien Philippe was the inventor of the modern
+crown. But they must have realized what they'd done, because later
+Ellipses have if anything excessively prominent crowns.
+[
+4
+]
+The high ratio of design space to practitioners in fine art
+has combined with the practical importance of attribution to give
+people the impression that painting in a distinctively Leonardesque
+way is what makes Leonardo good. The most dangerous problem faced
+by curators, art historians, and art dealers — the one that has
+the worst consequences if they get the wrong answer — is attribution.
+So inevitably they spend a lot of time thinking and talking about
+the features that distinguish the work of one artist from another.
+But those aren't what make artists good. What makes the line of a
+woman's cheek in a Leonardo drawing good is how good it looks as
+the line of a cheek, not how little it looks like lines made by
+other artists.
+Because painting has such prestige, the myth that having a distinctive
+style (rather than painting well) is the defining quality of great
+artists has in turn given cover to a lot of bad design in adjacent
+fields. A brand that does something hideous to distinguish their
+products can say "Like all great works of art, ours have a distinctive
+style," and people will buy it.
+[
+5
+]
+An ad that Patek Philippe ran in America in 1970 famously
+described a Patek 3548 with a gold bracelet as a "$1700 trust fund."
+Was it actually a good investment? In the very best case a dealer
+might pay you $20k now for one in unworn condition with its original
+box and papers. That's about a 4.5% rate of return, which is not
+absolutely terrible. But apparently the average rate of return on
+S&amp;P 500 stocks over this period was more like 10%, if you reinvested
+all the dividends after paying taxes on them. The average rate of
+return would have been over 9% if you merely bought a lump of gold
+that hadn't been made into a watch. So, not surprisingly, the ad
+wasn't very good investment advice.
+[
+6
+]
+Tania Edwards, who ran US marketing for Patek Philippe in the
+90s, said that Bittel literally sketched the design of the 3919 on
+a piece of paper. This sounds odd to me, because the 3919 looked
+exactly like the existing 3520 with the addition of sub seconds (a
+small dial with a second hand above 6 o'clock). Why would you sketch
+a design almost identical to an existing watch when you could just
+point to the existing watch and say "that, with sub seconds." What
+this story does show, though, is the degree to which people within
+Patek felt their ad agency was responsible for the design of the
+3919.
+[
+7
+]
+If I had to date the turning point for mechanical watches
+precisely, I'd say 1986. Unit sales of Swiss watches rebounded in
+1985, but revenue didn't, which means what we're seeing is the boom
+in cheap quartz Swatches. Indeed, sales of mechanical watches must
+have been down if revenue was flat despite the sale of all those
+Swatches. Whereas in 1986 revenue turns sharply upward even though
+unit sales only increase by a little, which implies a corresponding
+increase in sales of expensive mechanical watches.
+[
+8
+]
+There is of course another reason some people are into
+mechanical watches: because they're interested in old technology.
+And if you are genuinely interested in mechanical watches, there's
+good news. You don't have to wear a billboard on your wrist or pay
+a lot to own one. Just buy golden age watches. They still keep good
+time, they're much more beautiful, and they cost a fraction of what
+new watches cost.
+The key to buying a golden age watch is to find a good dealer, and
+the best way to recognize one is by how much they tell you about
+the watch. A bad dealer will just have a lot of fluff about the
+prestige of the brand and the sleek lines of the case. A good dealer
+will tell you the model number of the watch and movement, have lots
+of pictures, including some with the case back open, give you
+dimensions, disclose all damage and restoration, and tell you exactly
+how accurately the watch is running. Good dealers tend to be watch
+nerds themselves, so they're into this kind of thing.
+(There are a few independent watchmakers trying earnestly to make
+good mechanical watches now, but their efforts show how hard it is
+to do good work when the current is against you.)
+[
+9
+]
+Oddly enough it might have helped that the 3919 was hand
+wound. If a watch runs for long enough, 5 seconds a day starts to
+add up. After three months a watch that gains 5 seconds a day will
+be 7 minutes fast. But with a hand wound watch you occasionally
+forget to wind it, and it runs down. And when you wind it again you
+reset it — on average to a time about 30 seconds behind the actual
+time. So if you forgot to wind a 3919 every two weeks or so, it
+would rarely have shown the wrong time.
+[
+10
+]
+There's one brand still waiting to be reinflated: Universal
+Genčve, which was one of the big players of the golden age but since
+1977 has been little more than a brand name passed from acquirer
+to acquirer. They're scheduled to come back to life later this year,
+no doubt with stories about their long tradition of watchmaking.
+[
+11
+]
+More precisely, a high ratio of size to accuracy meant cheap.
+It's easier to make a larger movement keep good time, but between
+two watches of the same accuracy, the larger was usually the cheaper.
+[
+12
+]
+Their form did once follow function. They were originally
+diving watches. But they're long since obsolete for this purpose.
+Present day diving watches (now called dive computers) are digital
+and tell you much more than the time.
+[
+13
+]
+Rolex was awarded an average of 16.6 patents per year in the
+1950s, but only 1.7 per year in the 1960s.
+Pierre-Yves Donzé,
+The Making of a Status Symbol: A Business History
+of Rolex
+, Manchester University Press, 2025.
+[
+14
+]
+Rolexes also shared something more specific with SUVs:
+aspirational manliness. An internal 1967 report by Rolex's ad agency
+J. Walter Thompson explained the idea they were trying to convey: "Because a Rolex is
+designed for any situation, however rough or dangerous or heroic
+or exalted, it implies that the man who wears it is, potentially,
+a hero."
+Reprinted in Donzé,
+op cit
+.
+[
+15
+]
+This business model only works when purchase decisions are
+driven mainly by brand. In a normal market, if one manufacturer
+restricts production, customers just buy from whichever competing
+manufacturer offers something as good. It's only when customers are
+seeking a certain brand rather than a certain level of performance
+that you can manipulate them by restricting its availability.
+[
+16
+]
+Of course the first question one has on noticing a bubble is:
+will it burst? The reason ordinary bubbles eventually burst is that
+speculators get overoptimistic, but in this case the CEO of Patek
+Philippe controls the "money supply" and can thus take measures to
+cool down an overheated market. So there are probably only two
+things that could cause their specific bubble to burst: if his
+successor is not as capable, or if the whole custom of wearing
+mechanical watches goes away. The latter seems the greater danger.
+People aren't going to wear three things on their wrists, so all
+it would take is for there to be two popular devices that were worn
+on the wrist, and mechanical watches would start to be seen by the
+next cohort of young rich people as an old guy thing. It's hard to
+imagine a luxury watch brand surviving that.
+Thanks
+to Sam Altman, Bill Clerico, 
+Daniel Gackle, Luis Garcia, the
+people at Goldammer, Jessica Livingston, Ben Miller, Robert Morris,
+John Reardon, D'Arcy Rice, Alex Tabarrok, and Garry Tan for reading
+drafts of this.[
+1
+]1[
+2
+]2[
+3
+]3[
+4
+]4[
+5
+]5[
+6
+]6[
+7
+]7[
+8
+]8[
+9
+]9[
+10
+]10[
+11
+]11[
+12
+]12[
+13
+]13[
+14
+]14[
+15
+]15[
+16
+]1612345678910111213141516Thanks
+to Sam Altman, Bill Clerico, 
+Daniel Gackle, Luis Garcia, the
+people at Goldammer, Jessica Livingston, Ben Miller, Robert Morris,
+John Reardon, D'Arcy Rice, Alex Tabarrok, and Garry Tan for reading
+drafts of this.</description><guid isPermaLink="true">https://www.paulgraham.com/brandage.html</guid></item><item><title>The Shape of the Essay Field</title><link>https://www.paulgraham.com/field.html</link><description>June 2025
 An essay has to tell people something they don't already know. But
 there are three different reasons people might not know something,
 and they yield three very different kinds of essays.
@@ -18,7 +878,7 @@ question of why people don't know it. Not knowing random facts is
 the default. But if you're going to write about things that
 are
 important to know, you have to ask why your readers don't already
-know them. Is it because they're smart but inexperienced, or because
+know them. Is it because they're inexperienced, or because
 they're obtuse?
 So the three reasons readers might not already know what you tell
 them are (a) that it's not important, (b) that they're obtuse, 
@@ -7099,85 +7959,85 @@ reading drafts of this.
 Related:Will Florida Kill an Innocent Man?Was Kevin Cooper Framed for Murder?Did Texas execute an innocent man?</description><guid isPermaLink="true">https://www.paulgraham.com/real.html</guid></item><item><title>How People Get Rich Now</title><link>https://www.paulgraham.com/richnow.html</link><description>April 2021
 Every year since 1982,
 Forbes
-magazine has published a list of the&#13;
-richest Americans. If we compare the 100 richest people in 1982 to&#13;
+magazine has published a list of the
+richest Americans. If we compare the 100 richest people in 1982 to
 the 100 richest in 2020, we notice some big differences.
-In 1982 the most common source of wealth was inheritance. Of the&#13;
-100 richest people, 60 inherited from an ancestor. There were 10&#13;
-du Pont heirs alone. By 2020 the number of heirs had been cut in&#13;
+In 1982 the most common source of wealth was inheritance. Of the
+100 richest people, 60 inherited from an ancestor. There were 10
+du Pont heirs alone. By 2020 the number of heirs had been cut in
 half, accounting for only 27 of the biggest 100 fortunes.
-Why would the percentage of heirs decrease? Not because inheritance&#13;
-taxes increased. In fact, they decreased significantly during this&#13;
-period. The reason the percentage of heirs has decreased is not&#13;
-that fewer people are inheriting great fortunes, but that more&#13;
+Why would the percentage of heirs decrease? Not because inheritance
+taxes increased. In fact, they decreased significantly during this
+period. The reason the percentage of heirs has decreased is not
+that fewer people are inheriting great fortunes, but that more
 people are making them.
-How are people making these new fortunes? Roughly 3/4 by starting&#13;
-companies and 1/4 by investing. Of the 73 new fortunes in 2020, 56&#13;
-derive from founders' or early employees' equity (52 founders, 2&#13;
-early employees, and 2 wives of founders), and 17 from managing&#13;
+How are people making these new fortunes? Roughly 3/4 by starting
+companies and 1/4 by investing. Of the 73 new fortunes in 2020, 56
+derive from founders' or early employees' equity (52 founders, 2
+early employees, and 2 wives of founders), and 17 from managing
 investment funds.
-There were no fund managers among the 100 richest Americans in 1982.&#13;
-Hedge funds and private equity firms existed in 1982, but none of&#13;
-their founders were rich enough yet to make it into the top 100.&#13;
-Two things changed: fund managers discovered new ways to generate&#13;
-high returns, and more investors were willing to trust them with&#13;
+There were no fund managers among the 100 richest Americans in 1982.
+Hedge funds and private equity firms existed in 1982, but none of
+their founders were rich enough yet to make it into the top 100.
+Two things changed: fund managers discovered new ways to generate
+high returns, and more investors were willing to trust them with
 their money.
 [
 1
 ]
-But the main source of new fortunes now is starting companies, and&#13;
-when you look at the data, you see big changes there too. People&#13;
-get richer from starting companies now than they did in 1982, because&#13;
+But the main source of new fortunes now is starting companies, and
+when you look at the data, you see big changes there too. People
+get richer from starting companies now than they did in 1982, because
 the companies do different things.
-In 1982, there were two dominant sources of new wealth: oil and&#13;
-real estate. Of the 40 new fortunes in 1982, at least 24 were due&#13;
-primarily to oil or real estate. Now only a small number are: of&#13;
-the 73 new fortunes in 2020, 4 were due to real estate and only 2&#13;
+In 1982, there were two dominant sources of new wealth: oil and
+real estate. Of the 40 new fortunes in 1982, at least 24 were due
+primarily to oil or real estate. Now only a small number are: of
+the 73 new fortunes in 2020, 4 were due to real estate and only 2
 to oil.
-By 2020 the biggest source of new wealth was what are sometimes&#13;
-called "tech" companies. Of the 73 new fortunes, about 30 derive&#13;
-from such companies. These are particularly common among the richest&#13;
-of the rich: 8 of the top 10 fortunes in 2020 were new fortunes of&#13;
+By 2020 the biggest source of new wealth was what are sometimes
+called "tech" companies. Of the 73 new fortunes, about 30 derive
+from such companies. These are particularly common among the richest
+of the rich: 8 of the top 10 fortunes in 2020 were new fortunes of
 this type.
-Arguably it's slightly misleading to treat tech as a category.&#13;
-Isn't Amazon really a retailer, and Tesla a car maker? Yes and no.&#13;
-Maybe in 50 years, when what we call tech is taken for granted, it&#13;
-won't seem right to put these two businesses in the same category.&#13;
-But at the moment at least, there is definitely something they share&#13;
-in common that distinguishes them. What retailer starts AWS? What&#13;
+Arguably it's slightly misleading to treat tech as a category.
+Isn't Amazon really a retailer, and Tesla a car maker? Yes and no.
+Maybe in 50 years, when what we call tech is taken for granted, it
+won't seem right to put these two businesses in the same category.
+But at the moment at least, there is definitely something they share
+in common that distinguishes them. What retailer starts AWS? What
 car maker is run by someone who also has a rocket company?
-The tech companies behind the top 100 fortunes also form a&#13;
-well-differentiated group in the sense that they're all companies&#13;
-that venture capitalists would readily invest in, and the others&#13;
-mostly not. And there's a reason why: these are mostly companies&#13;
-that win by having better technology, rather than just a CEO who's&#13;
+The tech companies behind the top 100 fortunes also form a
+well-differentiated group in the sense that they're all companies
+that venture capitalists would readily invest in, and the others
+mostly not. And there's a reason why: these are mostly companies
+that win by having better technology, rather than just a CEO who's
 really driven and good at making deals.
-To that extent, the rise of the tech companies represents a qualitative&#13;
-change. The oil and real estate magnates of the 1982 Forbes 400&#13;
-didn't win by making better technology. They won by being really&#13;
+To that extent, the rise of the tech companies represents a qualitative
+change. The oil and real estate magnates of the 1982 Forbes 400
+didn't win by making better technology. They won by being really
 driven and good at making deals.
 [
 2
 ]
-And indeed, that way of&#13;
-getting rich is so old that it predates the Industrial Revolution.&#13;
-The courtiers who got rich in the (nominal) service of European&#13;
-royal houses in the 16th and 17th centuries were also, as a rule,&#13;
+And indeed, that way of
+getting rich is so old that it predates the Industrial Revolution.
+The courtiers who got rich in the (nominal) service of European
+royal houses in the 16th and 17th centuries were also, as a rule,
 really driven and good at making deals.
-People who don't look any deeper than the Gini coefficient look&#13;
-back on the world of 1982 as the good old days, because those who&#13;
+People who don't look any deeper than the Gini coefficient look
+back on the world of 1982 as the good old days, because those who
 got rich then didn't get as rich. But if you dig into
 how
-they&#13;
-got rich, the old days don't look so good. In 1982, 84% of the&#13;
-richest 100 people got rich by inheritance, extracting natural&#13;
-resources, or doing real estate deals. Is that really better than&#13;
-a world in which the richest people get rich by starting tech&#13;
+they
+got rich, the old days don't look so good. In 1982, 84% of the
+richest 100 people got rich by inheritance, extracting natural
+resources, or doing real estate deals. Is that really better than
+a world in which the richest people get rich by starting tech
 companies?
-Why are people starting so many more new companies than they used&#13;
-to, and why are they getting so rich from it? The answer to the&#13;
-first question, curiously enough, is that it's misphrased. We&#13;
-shouldn't be asking why people are starting companies, but why&#13;
+Why are people starting so many more new companies than they used
+to, and why are they getting so rich from it? The answer to the
+first question, curiously enough, is that it's misphrased. We
+shouldn't be asking why people are starting companies, but why
 they're starting companies
 again
 .
@@ -7186,237 +8046,237 @@ again
 ]
 In 1892, the
 New York Herald Tribune
-compiled a list of all the&#13;
-millionaires in America. They found 4047 of them. How many had&#13;
-inherited their wealth then? Only about 20%, which is less than the&#13;
-proportion of heirs today. And when you investigate the sources of&#13;
-the new fortunes, 1892 looks even more like today. Hugh Rockoff&#13;
-found that "many of the richest ... gained their initial edge from&#13;
+compiled a list of all the
+millionaires in America. They found 4047 of them. How many had
+inherited their wealth then? Only about 20%, which is less than the
+proportion of heirs today. And when you investigate the sources of
+the new fortunes, 1892 looks even more like today. Hugh Rockoff
+found that "many of the richest ... gained their initial edge from
 the new technology of mass production."
 [
 4
 ]
-So it's not 2020 that's the anomaly here, but 1982. The real question&#13;
-is why so few people had gotten rich from starting companies in&#13;
+So it's not 2020 that's the anomaly here, but 1982. The real question
+is why so few people had gotten rich from starting companies in
 1982. And the answer is that even as the
 Herald Tribune
-'s list was&#13;
+'s list was
 being compiled, a wave of
 consolidation
-was sweeping through the&#13;
-American economy. In the late 19th and early 20th centuries,&#13;
-financiers like J. P. Morgan combined thousands of smaller companies&#13;
-into a few hundred giant ones with commanding economies of scale.&#13;
-By the end of World War II, as Michael Lind writes, "the major&#13;
-sectors of the economy were either organized as government-backed&#13;
+was sweeping through the
+American economy. In the late 19th and early 20th centuries,
+financiers like J. P. Morgan combined thousands of smaller companies
+into a few hundred giant ones with commanding economies of scale.
+By the end of World War II, as Michael Lind writes, "the major
+sectors of the economy were either organized as government-backed
 cartels or dominated by a few oligopolistic corporations."
 [
 5
 ]
-In 1960, most of the people who start startups today would have&#13;
-gone to work for one of them. You could get rich from starting your&#13;
-own company in 1890 and in 2020, but in 1960 it was not really a&#13;
-viable option. You couldn't break through the oligopolies to get&#13;
-at the markets. So the prestigious route in 1960 was not to start&#13;
-your own company, but to work your way up the corporate ladder at&#13;
+In 1960, most of the people who start startups today would have
+gone to work for one of them. You could get rich from starting your
+own company in 1890 and in 2020, but in 1960 it was not really a
+viable option. You couldn't break through the oligopolies to get
+at the markets. So the prestigious route in 1960 was not to start
+your own company, but to work your way up the corporate ladder at
 an existing one.
 [
 6
 ]
-Making everyone a corporate employee decreased economic inequality&#13;
-(and every other kind of variation), but if your model of normal&#13;
-is the mid 20th century, you have a very misleading model in that&#13;
-respect. J. P. Morgan's economy turned out to be just a phase, and&#13;
+Making everyone a corporate employee decreased economic inequality
+(and every other kind of variation), but if your model of normal
+is the mid 20th century, you have a very misleading model in that
+respect. J. P. Morgan's economy turned out to be just a phase, and
 starting in the 1970s, it began to break up.
-Why did it break up? Partly senescence. The big companies that&#13;
-seemed models of scale and efficiency in 1930 had by 1970 become&#13;
-slack and bloated. By 1970 the rigid structure of the economy was&#13;
-full of cosy nests that various groups had built to insulate&#13;
-themselves from market forces. During the Carter administration the&#13;
-federal government realized something was amiss and began, in a&#13;
-process they called "deregulation," to roll back the policies that&#13;
+Why did it break up? Partly senescence. The big companies that
+seemed models of scale and efficiency in 1930 had by 1970 become
+slack and bloated. By 1970 the rigid structure of the economy was
+full of cosy nests that various groups had built to insulate
+themselves from market forces. During the Carter administration the
+federal government realized something was amiss and began, in a
+process they called "deregulation," to roll back the policies that
 propped up the oligopolies.
-But it wasn't just decay from within that broke up J. P. Morgan's&#13;
-economy. There was also pressure from without, in the form of new&#13;
-technology, and particularly microelectronics. The best way to&#13;
-envision what happened is to imagine a pond with a crust of ice on&#13;
-top. Initially the only way from the bottom to the surface is around&#13;
-the edges. But as the ice crust weakens, you start to be able to&#13;
+But it wasn't just decay from within that broke up J. P. Morgan's
+economy. There was also pressure from without, in the form of new
+technology, and particularly microelectronics. The best way to
+envision what happened is to imagine a pond with a crust of ice on
+top. Initially the only way from the bottom to the surface is around
+the edges. But as the ice crust weakens, you start to be able to
 punch right through the middle.
-The edges of the pond were pure tech: companies that actually&#13;
-described themselves as being in the electronics or software business.&#13;
-When you used the word "startup" in 1990, that was what you meant.&#13;
-But now startups are punching right through the middle of the ice&#13;
-crust and displacing incumbents like retailers and TV networks and&#13;
+The edges of the pond were pure tech: companies that actually
+described themselves as being in the electronics or software business.
+When you used the word "startup" in 1990, that was what you meant.
+But now startups are punching right through the middle of the ice
+crust and displacing incumbents like retailers and TV networks and
 car companies.
 [
 7
 ]
-But though the breakup of J. P. Morgan's economy created a new world&#13;
-in the technological sense, it was a reversion to the norm in the&#13;
-social sense. If you only look back as far as the mid 20th century,&#13;
-it seems like people getting rich by starting their own companies&#13;
-is a recent phenomenon. But if you look back further, you realize&#13;
-it's actually the default. So what we should expect in the future&#13;
-is more of the same. Indeed, we should expect both the number and&#13;
-wealth of founders to grow, because every decade it gets easier to&#13;
+But though the breakup of J. P. Morgan's economy created a new world
+in the technological sense, it was a reversion to the norm in the
+social sense. If you only look back as far as the mid 20th century,
+it seems like people getting rich by starting their own companies
+is a recent phenomenon. But if you look back further, you realize
+it's actually the default. So what we should expect in the future
+is more of the same. Indeed, we should expect both the number and
+wealth of founders to grow, because every decade it gets easier to
 start a startup.
-Part of the reason it's getting easier to start a startup is social.&#13;
-Society is (re)assimilating the concept. If you start one now, your&#13;
-parents won't freak out the way they would have a generation ago,&#13;
-and knowledge about how to do it is much more widespread. But the&#13;
-main reason it's easier to start a startup now is that it's cheaper.&#13;
-Technology has driven down the cost of both building products and&#13;
+Part of the reason it's getting easier to start a startup is social.
+Society is (re)assimilating the concept. If you start one now, your
+parents won't freak out the way they would have a generation ago,
+and knowledge about how to do it is much more widespread. But the
+main reason it's easier to start a startup now is that it's cheaper.
+Technology has driven down the cost of both building products and
 acquiring customers.
-The decreasing cost of starting a startup has in turn changed the&#13;
-balance of power between founders and investors. Back when starting&#13;
-a startup meant building a factory, you needed investors' permission&#13;
-to do it at all. But now investors need founders more than founders&#13;
-need investors, and that, combined with the increasing amount of&#13;
+The decreasing cost of starting a startup has in turn changed the
+balance of power between founders and investors. Back when starting
+a startup meant building a factory, you needed investors' permission
+to do it at all. But now investors need founders more than founders
+need investors, and that, combined with the increasing amount of
 venture capital available, has driven up valuations.
 [
 8
 ]
-So the decreasing cost of starting a startup increases the number&#13;
-of rich people in two ways: it means that more people start them,&#13;
+So the decreasing cost of starting a startup increases the number
+of rich people in two ways: it means that more people start them,
 and that those who do can raise money on better terms.
-But there's also a third factor at work: the companies themselves&#13;
-are more valuable, because newly founded companies grow faster than&#13;
-they used to. Technology hasn't just made it cheaper to build and&#13;
+But there's also a third factor at work: the companies themselves
+are more valuable, because newly founded companies grow faster than
+they used to. Technology hasn't just made it cheaper to build and
 distribute things, but faster too.
-This trend has been running for a long time. IBM, founded in 1896,&#13;
-took 45 years to reach a billion 2020 dollars in revenue.&#13;
-Hewlett-Packard, founded in 1939, took 25 years. Microsoft, founded&#13;
-in 1975, took 13 years. Now the norm for fast-growing companies is&#13;
+This trend has been running for a long time. IBM, founded in 1896,
+took 45 years to reach a billion 2020 dollars in revenue.
+Hewlett-Packard, founded in 1939, took 25 years. Microsoft, founded
+in 1975, took 13 years. Now the norm for fast-growing companies is
 7 or 8 years.
 [
 9
 ]
-Fast growth has a double effect on the value of founders' stock.&#13;
-The value of a company is a function of its revenue and its growth&#13;
-rate. So if a company grows faster, you not only get to a billion&#13;
-dollars in revenue sooner, but the company is more valuable when&#13;
+Fast growth has a double effect on the value of founders' stock.
+The value of a company is a function of its revenue and its growth
+rate. So if a company grows faster, you not only get to a billion
+dollars in revenue sooner, but the company is more valuable when
 it reaches that point than it would be if it were growing slower.
-That's why founders sometimes get so rich so young now. The low&#13;
-initial cost of starting a startup means founders can start young,&#13;
-and the fast growth of companies today means that if they succeed&#13;
+That's why founders sometimes get so rich so young now. The low
+initial cost of starting a startup means founders can start young,
+and the fast growth of companies today means that if they succeed
 they could be surprisingly rich just a few years later.
-It's easier now to start and grow a company than it has ever been.&#13;
-That means more people start them, that those who do get better&#13;
-terms from investors, and that the resulting companies become more&#13;
-valuable. Once you understand how these mechanisms work, and that&#13;
-startups were suppressed for most of the 20th century, you don't&#13;
-have to resort to some vague right turn the country took under&#13;
-Reagan to explain why America's Gini coefficient is increasing. Of&#13;
-course the Gini coefficient is increasing. With more people starting&#13;
+It's easier now to start and grow a company than it has ever been.
+That means more people start them, that those who do get better
+terms from investors, and that the resulting companies become more
+valuable. Once you understand how these mechanisms work, and that
+startups were suppressed for most of the 20th century, you don't
+have to resort to some vague right turn the country took under
+Reagan to explain why America's Gini coefficient is increasing. Of
+course the Gini coefficient is increasing. With more people starting
 more valuable companies, how could it not be?
 Notes
 [
 1
-]&#13;
-Investment firms grew rapidly after a regulatory change by&#13;
-the Labor Department in 1978 allowed pension funds to invest in&#13;
-them, but the effects of this growth were not yet visible in the&#13;
+]
+Investment firms grew rapidly after a regulatory change by
+the Labor Department in 1978 allowed pension funds to invest in
+them, but the effects of this growth were not yet visible in the
 top 100 fortunes in 1982.
 [
 2
-]&#13;
-George Mitchell deserves mention as an exception. Though&#13;
-really driven and good at making deals, he was also the first to&#13;
+]
+George Mitchell deserves mention as an exception. Though
+really driven and good at making deals, he was also the first to
 figure out how to use fracking to get natural gas out of shale.
 [
 3
-]&#13;
-When I say people are starting more companies, I mean the&#13;
+]
+When I say people are starting more companies, I mean the
 type of company meant to
 grow
-very big. There has actually been a&#13;
-decrease in the last couple decades in the overall number of new&#13;
-companies. But the vast majority of companies are small retail and&#13;
-service businesses. So what the statistics about the decreasing&#13;
-number of new businesses mean is that people are starting fewer&#13;
+very big. There has actually been a
+decrease in the last couple decades in the overall number of new
+companies. But the vast majority of companies are small retail and
+service businesses. So what the statistics about the decreasing
+number of new businesses mean is that people are starting fewer
 shoe stores and barber shops.
 People sometimes get
 confused
-when they see a graph labelled&#13;
-"startups" that's going down, because there are two senses of the&#13;
-word "startup": (1) the founding of a company, and (2) a particular&#13;
-type of company designed to grow big fast. The statistics mean&#13;
+when they see a graph labelled
+"startups" that's going down, because there are two senses of the
+word "startup": (1) the founding of a company, and (2) a particular
+type of company designed to grow big fast. The statistics mean
 startup in sense (1), not sense (2).
 [
 4
-]&#13;
-Rockoff, Hugh. "Great Fortunes of the Gilded Age." NBER Working&#13;
+]
+Rockoff, Hugh. "Great Fortunes of the Gilded Age." NBER Working
 Paper 14555, 2008.
 [
 5
-]&#13;
+]
 Lind, Michael.
 Land of Promise.
 HarperCollins, 2012.
-It's also likely that the high tax rates in the mid 20th century&#13;
-deterred people from starting their own companies. Starting one's&#13;
+It's also likely that the high tax rates in the mid 20th century
+deterred people from starting their own companies. Starting one's
 own company is risky, and when risk isn't rewarded, people opt for
 safety
 instead.
-But it wasn't simply cause and effect. The oligopolies and high tax&#13;
-rates of the mid 20th century were all of a piece. Lower taxes are&#13;
-not just a cause of entrepreneurship, but an effect as well: the&#13;
-people getting rich in the mid 20th century from real estate and&#13;
-oil exploration lobbied for and got huge tax loopholes that made&#13;
-their effective tax rate much lower, and presumably if it had been&#13;
-more common to grow big companies by building new technology, the&#13;
-people doing that would have lobbied for their own loopholes as&#13;
+But it wasn't simply cause and effect. The oligopolies and high tax
+rates of the mid 20th century were all of a piece. Lower taxes are
+not just a cause of entrepreneurship, but an effect as well: the
+people getting rich in the mid 20th century from real estate and
+oil exploration lobbied for and got huge tax loopholes that made
+their effective tax rate much lower, and presumably if it had been
+more common to grow big companies by building new technology, the
+people doing that would have lobbied for their own loopholes as
 well.
 [
 6
-]&#13;
-That's why the people who did get rich in the mid 20th century&#13;
-so often got rich from oil exploration or real estate. Those were&#13;
-the two big areas of the economy that weren't susceptible to&#13;
+]
+That's why the people who did get rich in the mid 20th century
+so often got rich from oil exploration or real estate. Those were
+the two big areas of the economy that weren't susceptible to
 consolidation.
 [
 7
-]&#13;
-The pure tech companies used to be called "high technology" startups.&#13;
-But now that startups can punch through the middle of the ice crust,&#13;
-we don't need a separate name for the edges, and the term "high-tech"&#13;
+]
+The pure tech companies used to be called "high technology" startups.
+But now that startups can punch through the middle of the ice crust,
+we don't need a separate name for the edges, and the term "high-tech"
 has a decidedly
 retro
 sound.
 [
 8
-]&#13;
-Higher valuations mean you either sell less stock to get a&#13;
-given amount of money, or get more money for a given amount of&#13;
-stock. The typical startup does some of each. Obviously you end up&#13;
-richer if you keep more stock, but you should also end up richer&#13;
-if you raise more money, because (a) it should make the company&#13;
-more successful, and (b) you should be able to last longer before&#13;
-the next round, or not even need one. Notice all those shoulds&#13;
+]
+Higher valuations mean you either sell less stock to get a
+given amount of money, or get more money for a given amount of
+stock. The typical startup does some of each. Obviously you end up
+richer if you keep more stock, but you should also end up richer
+if you raise more money, because (a) it should make the company
+more successful, and (b) you should be able to last longer before
+the next round, or not even need one. Notice all those shoulds
 though. In practice a lot of money slips through them.
-It might seem that the huge rounds raised by startups nowadays&#13;
-contradict the claim that it has become cheaper to start one. But&#13;
-there's no contradiction here; the startups that raise the most are&#13;
-the ones doing it by choice, in order to grow faster, not the ones&#13;
-doing it because they need the money to survive. There's nothing&#13;
+It might seem that the huge rounds raised by startups nowadays
+contradict the claim that it has become cheaper to start one. But
+there's no contradiction here; the startups that raise the most are
+the ones doing it by choice, in order to grow faster, not the ones
+doing it because they need the money to survive. There's nothing
 like not needing money to make people offer it to you.
-You would think, after having been on the side of labor in its fight&#13;
-with capital for almost two centuries, that the far left would be&#13;
-happy that labor has finally prevailed. But none of them seem to&#13;
+You would think, after having been on the side of labor in its fight
+with capital for almost two centuries, that the far left would be
+happy that labor has finally prevailed. But none of them seem to
 be. You can almost hear them saying "No, no, not
 that
 way."
 [
 9
-]&#13;
-IBM was created in 1911 by merging three companies, the most&#13;
-important of which was Herman Hollerith's Tabulating Machine Company,&#13;
+]
+IBM was created in 1911 by merging three companies, the most
+important of which was Herman Hollerith's Tabulating Machine Company,
 founded in 1896. In 1941 its revenues were $60 million.
 Hewlett-Packard's revenues in 1964 were $125 million.
 Microsoft's revenues in 1988 were $590 million.
 Thanks
-to Trevor Blackwell, Jessica Livingston, Bob Lesko, Robert Morris, &#13;
+to Trevor Blackwell, Jessica Livingston, Bob Lesko, Robert Morris, 
 Russ Roberts, and Alex Tabarrok for reading drafts of this, and to Jon Erlichman for growth data.[
 1
 ]1[
@@ -10742,74 +11602,74 @@ Ralston, and Harj Taggar for reading drafts of this.[
 ]512345German TranslationKorean TranslationSerbian Translation</description><guid isPermaLink="true">https://www.paulgraham.com/conformism.html</guid></item><item><title>Orthodox Privilege</title><link>https://www.paulgraham.com/orth.html</link><description>July 2020
 "Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."
 — Einstein
-There has been a lot of talk about privilege lately. Although the&#13;
-concept is overused, there is something to it, and in particular&#13;
-to the idea that privilege makes you blind — that you can't see&#13;
-things that are visible to someone whose life is very different&#13;
+There has been a lot of talk about privilege lately. Although the
+concept is overused, there is something to it, and in particular
+to the idea that privilege makes you blind — that you can't see
+things that are visible to someone whose life is very different
 from yours.
-But one of the most pervasive examples of this kind of blindness&#13;
-is one that I haven't seen mentioned explicitly. I'm going to call&#13;
+But one of the most pervasive examples of this kind of blindness
+is one that I haven't seen mentioned explicitly. I'm going to call
 it
 orthodox privilege
-: The more conventional-minded someone is, the&#13;
-more it seems to them that it's safe for everyone to express their&#13;
+: The more conventional-minded someone is, the
+more it seems to them that it's safe for everyone to express their
 opinions.
 It's safe for
 them
-to express their opinions, because the source&#13;
-of their opinions is whatever it's currently acceptable to believe.&#13;
-So it seems to them that it must be safe for everyone. They literally&#13;
+to express their opinions, because the source
+of their opinions is whatever it's currently acceptable to believe.
+So it seems to them that it must be safe for everyone. They literally
 can't imagine a true statement that would get you in trouble.
 And yet at every point in history, there
 were
-true things that would&#13;
-get you in trouble to say. &#13;
-Is ours the first where this&#13;
+true things that would
+get you in trouble to say. 
+Is ours the first where this
 isn't so? What an amazing coincidence that would be.
-Surely it should at least be the default assumption that our time&#13;
-is not unique, and that there are true things you can't say now,&#13;
-just as there have always been. You would think. But even in the&#13;
-face of such overwhelming historical evidence, most people will go&#13;
+Surely it should at least be the default assumption that our time
+is not unique, and that there are true things you can't say now,
+just as there have always been. You would think. But even in the
+face of such overwhelming historical evidence, most people will go
 with their gut on this one.
-In the most extreme cases, people suffering from orthodox&#13;
-privilege will not only deny that there's anything true that &#13;
-you can't say, but will accuse you of heresy merely for saying there is. &#13;
-Though if there's more than one heresy current in&#13;
-your time, these accusations will be weirdly non-deterministic:&#13;
+In the most extreme cases, people suffering from orthodox
+privilege will not only deny that there's anything true that 
+you can't say, but will accuse you of heresy merely for saying there is. 
+Though if there's more than one heresy current in
+your time, these accusations will be weirdly non-deterministic:
 you must either be an xist or a yist.
-Frustrating as it is to deal with these people, it's important to&#13;
-realize that they're in earnest. They're not pretending they think&#13;
-it's impossible for an idea to be both unorthodox and true. The&#13;
+Frustrating as it is to deal with these people, it's important to
+realize that they're in earnest. They're not pretending they think
+it's impossible for an idea to be both unorthodox and true. The
 world really looks that way to them.
-Indeed, this is a uniquely tenacious form of privilege. People can&#13;
-overcome the blindness induced by most forms of privilege by learning&#13;
-more about whatever they're not. But they can't overcome orthodox&#13;
-privilege just by learning more. They'd have to become more&#13;
-independent-minded. If that happens at all, it doesn't happen on&#13;
+Indeed, this is a uniquely tenacious form of privilege. People can
+overcome the blindness induced by most forms of privilege by learning
+more about whatever they're not. But they can't overcome orthodox
+privilege just by learning more. They'd have to become more
+independent-minded. If that happens at all, it doesn't happen on
 the time scale of one conversation.
-It may be possible to convince some people that orthodox privilege&#13;
-must exist even though they can't sense it, just as one can with,&#13;
-say, dark matter. There may be some who could be convinced, for&#13;
-example, that it's very unlikely that this is the first point in&#13;
-history at which there's nothing true you can't say, even if they&#13;
+It may be possible to convince some people that orthodox privilege
+must exist even though they can't sense it, just as one can with,
+say, dark matter. There may be some who could be convinced, for
+example, that it's very unlikely that this is the first point in
+history at which there's nothing true you can't say, even if they
 can't imagine specific examples.
-But in general I don't think it will work to say&#13;
-"check your privilege" about this type of privilege, because those&#13;
-in its demographic don't realize they're in it. It doesn't seem to&#13;
-conventional-minded people that they're conventional-minded. It&#13;
-just seems to them that they're right. Indeed, they tend to be&#13;
+But in general I don't think it will work to say
+"check your privilege" about this type of privilege, because those
+in its demographic don't realize they're in it. It doesn't seem to
+conventional-minded people that they're conventional-minded. It
+just seems to them that they're right. Indeed, they tend to be
 particularly sure of it.
-Perhaps the solution is to appeal to politeness. If someone says&#13;
-they can hear a high-pitched noise that you can't, it's only polite&#13;
-to take them at their word, instead of demanding evidence that's&#13;
-impossible to produce, or simply denying that they hear anything.&#13;
-Imagine how rude that would seem. Similarly, if someone says they&#13;
-can think of things that are true but that cannot be said, it's&#13;
-only polite to take them at their word, even if you can't think of&#13;
+Perhaps the solution is to appeal to politeness. If someone says
+they can hear a high-pitched noise that you can't, it's only polite
+to take them at their word, instead of demanding evidence that's
+impossible to produce, or simply denying that they hear anything.
+Imagine how rude that would seem. Similarly, if someone says they
+can think of things that are true but that cannot be said, it's
+only polite to take them at their word, even if you can't think of
 any yourself.
 Thanks
-to Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia-Martinez,&#13;
-Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and&#13;
+to Sam Altman, Trevor Blackwell, Patrick Collison, Antonio Garcia-Martinez,
+Jessica Livingston, Robert Morris, Michael Nielsen, Geoff Ralston, Max Roser, and
 Harj Taggar for reading drafts of this."Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions."
 — Einstein</description><guid isPermaLink="true">https://www.paulgraham.com/orth.html</guid></item><item><title>Coronavirus and Credibility</title><link>https://www.paulgraham.com/cred.html</link><description>April 2020
 I recently saw a
@@ -26852,123 +27712,123 @@ Get funded by
 Y Combinator
 .
 March 2009
-A couple days ago I finally got being a good startup founder down&#13;
+A couple days ago I finally got being a good startup founder down
 to two words:  relentlessly resourceful.
-Till then the best I'd managed was to get the opposite quality down&#13;
-to one: hapless.  Most dictionaries say hapless means unlucky.  But&#13;
-the dictionaries are not doing a very good job.  A team that outplays&#13;
-its opponents but loses because of a bad decision by the referee&#13;
-could be called unlucky, but not hapless.  Hapless implies passivity.&#13;
-To be hapless is to be battered by circumstances — to let the world&#13;
+Till then the best I'd managed was to get the opposite quality down
+to one: hapless.  Most dictionaries say hapless means unlucky.  But
+the dictionaries are not doing a very good job.  A team that outplays
+its opponents but loses because of a bad decision by the referee
+could be called unlucky, but not hapless.  Hapless implies passivity.
+To be hapless is to be battered by circumstances — to let the world
 have its way with you, instead of having your way with the world.
 [
 1
 ]
-Unfortunately there's no antonym of hapless, which makes it difficult&#13;
-to tell founders what to aim for.  "Don't be hapless" is not much&#13;
+Unfortunately there's no antonym of hapless, which makes it difficult
+to tell founders what to aim for.  "Don't be hapless" is not much
 of a rallying cry.
-It's not hard to express the quality we're looking for in metaphors.&#13;
-The best is probably a running back.  A good running back is not&#13;
-merely determined, but flexible as well.  They want to get downfield,&#13;
+It's not hard to express the quality we're looking for in metaphors.
+The best is probably a running back.  A good running back is not
+merely determined, but flexible as well.  They want to get downfield,
 but they adapt their plans on the fly.
-Unfortunately this is just a metaphor, and not a useful one to most&#13;
-people outside the US.   "Be like a running back" is no better than&#13;
+Unfortunately this is just a metaphor, and not a useful one to most
+people outside the US.   "Be like a running back" is no better than
 "Don't be hapless."
-But finally I've figured out how to express this quality directly.&#13;
+But finally I've figured out how to express this quality directly.
 I was writing a talk for
 investors
-, and I had to explain what to&#13;
-look for in founders.  What would someone who was the opposite of&#13;
-hapless be like?  They'd be relentlessly resourceful.  Not merely&#13;
-relentless.  That's not enough to make things go your way except&#13;
-in a few mostly uninteresting domains.  In any interesting domain,&#13;
-the difficulties will be novel.  Which means you can't simply plow&#13;
-through them, because you don't know initially how hard they are;&#13;
-you don't know whether you're about to plow through a block of foam&#13;
-or granite.  So you have to be resourceful. You have to keep&#13;
+, and I had to explain what to
+look for in founders.  What would someone who was the opposite of
+hapless be like?  They'd be relentlessly resourceful.  Not merely
+relentless.  That's not enough to make things go your way except
+in a few mostly uninteresting domains.  In any interesting domain,
+the difficulties will be novel.  Which means you can't simply plow
+through them, because you don't know initially how hard they are;
+you don't know whether you're about to plow through a block of foam
+or granite.  So you have to be resourceful. You have to keep
 trying new things.
 Be relentlessly resourceful.
-That sounds right, but is it simply a description&#13;
-of how to be successful in general?  I don't think so.  This isn't&#13;
-the recipe for success in writing or painting, for example.  In&#13;
-that kind of work the recipe is more to be actively curious.&#13;
-Resourceful implies the obstacles are external, which they generally&#13;
-are in startups. But in writing and painting they're mostly internal;&#13;
+That sounds right, but is it simply a description
+of how to be successful in general?  I don't think so.  This isn't
+the recipe for success in writing or painting, for example.  In
+that kind of work the recipe is more to be actively curious.
+Resourceful implies the obstacles are external, which they generally
+are in startups. But in writing and painting they're mostly internal;
 the obstacle is your own obtuseness.
 [
 2
 ]
-There probably are other fields where "relentlessly resourceful"&#13;
-is the recipe for success.  But though other fields may share it,&#13;
-I think this is the best short description we'll find of what makes&#13;
+There probably are other fields where "relentlessly resourceful"
+is the recipe for success.  But though other fields may share it,
+I think this is the best short description we'll find of what makes
 a good startup founder.  I doubt it could be made more precise.
-Now that we know what we're looking for, that leads to other&#13;
-questions.  For example, can this quality be taught?  After four&#13;
-years of trying to teach it to people, I'd say that yes, surprisingly&#13;
+Now that we know what we're looking for, that leads to other
+questions.  For example, can this quality be taught?  After four
+years of trying to teach it to people, I'd say that yes, surprisingly
 often it can.  Not to everyone, but to many people.
 [
 3
 ]
-Some&#13;
-people are just constitutionally passive, but others have a latent&#13;
-ability to be relentlessly resourceful that only needs to be brought&#13;
+Some
+people are just constitutionally passive, but others have a latent
+ability to be relentlessly resourceful that only needs to be brought
 out.
-This is particularly true of young people who have till now always&#13;
-been under the thumb of some kind of authority.  Being relentlessly&#13;
-resourceful is definitely not the recipe for success in big companies,&#13;
-or in most schools.  I don't even want to think what the recipe is&#13;
-in big companies, but it is certainly longer and messier, involving&#13;
-some combination of resourcefulness, obedience, and building&#13;
+This is particularly true of young people who have till now always
+been under the thumb of some kind of authority.  Being relentlessly
+resourceful is definitely not the recipe for success in big companies,
+or in most schools.  I don't even want to think what the recipe is
+in big companies, but it is certainly longer and messier, involving
+some combination of resourcefulness, obedience, and building
 alliances.
-Identifying this quality also brings us closer to answering a&#13;
-question people often wonder about: how many startups there could&#13;
-be.  There is not, as some people seem to think, any economic upper&#13;
-bound on this number.  There's no reason to believe there is any&#13;
-limit on the amount of newly created wealth consumers can absorb,&#13;
-any more than there is a limit on the number of theorems that can&#13;
-be proven.  So probably the limiting factor on the number of startups&#13;
-is the pool of potential founders.  Some people would make good&#13;
-founders, and others wouldn't.  And now that we can say what makes&#13;
-a good founder, we know how to put an upper bound on the size of&#13;
+Identifying this quality also brings us closer to answering a
+question people often wonder about: how many startups there could
+be.  There is not, as some people seem to think, any economic upper
+bound on this number.  There's no reason to believe there is any
+limit on the amount of newly created wealth consumers can absorb,
+any more than there is a limit on the number of theorems that can
+be proven.  So probably the limiting factor on the number of startups
+is the pool of potential founders.  Some people would make good
+founders, and others wouldn't.  And now that we can say what makes
+a good founder, we know how to put an upper bound on the size of
 the pool.
-This test is also useful to individuals.  If you want to know whether&#13;
-you're the right sort of person to start a startup, ask yourself&#13;
-whether you're relentlessly resourceful.  And if you want to know&#13;
+This test is also useful to individuals.  If you want to know whether
+you're the right sort of person to start a startup, ask yourself
+whether you're relentlessly resourceful.  And if you want to know
 whether to recruit someone as a cofounder, ask if they are.
-You can even use it tactically.  If I were running a startup, this&#13;
-would be the phrase I'd tape to the mirror.  "Make something people&#13;
-want" is the destination, but "Be relentlessly resourceful" is how&#13;
+You can even use it tactically.  If I were running a startup, this
+would be the phrase I'd tape to the mirror.  "Make something people
+want" is the destination, but "Be relentlessly resourceful" is how
 you get there.
 Notes
 [
 1
-]&#13;
-I think the reason the dictionaries are wrong is that the&#13;
-meaning of the word has shifted.  No one writing a dictionary from&#13;
-scratch today would say that hapless meant unlucky.  But a couple&#13;
-hundred years ago they might have.  People were more at the mercy&#13;
-of circumstances in the past, and as a result a lot of the words&#13;
+]
+I think the reason the dictionaries are wrong is that the
+meaning of the word has shifted.  No one writing a dictionary from
+scratch today would say that hapless meant unlucky.  But a couple
+hundred years ago they might have.  People were more at the mercy
+of circumstances in the past, and as a result a lot of the words
 we use for good and bad outcomes have origins in words about luck.
-When I was living in Italy, I was once trying to tell someone&#13;
-that I hadn't had much success in doing something, but I couldn't&#13;
-think of the Italian word for success.  I spent some time trying&#13;
+When I was living in Italy, I was once trying to tell someone
+that I hadn't had much success in doing something, but I couldn't
+think of the Italian word for success.  I spent some time trying
 to describe the word I meant.  Finally she said "Ah! Fortuna!"
 [
 2
-]&#13;
-There are aspects of startups where the recipe is to be&#13;
-actively curious.  There can be times when what you're doing is&#13;
-almost pure discovery.  Unfortunately these times are a small&#13;
-proportion of the whole.  On the other hand, they are in research&#13;
+]
+There are aspects of startups where the recipe is to be
+actively curious.  There can be times when what you're doing is
+almost pure discovery.  Unfortunately these times are a small
+proportion of the whole.  On the other hand, they are in research
 too.
 [
 3
-]&#13;
-I'd almost say to most people, but I realize (a) I have no&#13;
-idea what most people are like, and (b) I'm pathologically optimistic&#13;
+]
+I'd almost say to most people, but I realize (a) I have no
+idea what most people are like, and (b) I'm pathologically optimistic
 about people's ability to change.
 Thanks
-to Trevor Blackwell and Jessica Livingston for reading drafts&#13;
+to Trevor Blackwell and Jessica Livingston for reading drafts
 of this.Want to start a startup?
 Get funded by
 Y Combinator
@@ -44208,133 +45068,133 @@ Startup School.
 )
 How do you get good ideas for
 startups
-?  That's probably the number&#13;
+?  That's probably the number
 one question people ask me.
-I'd like to reply with another question: why do people think it's&#13;
+I'd like to reply with another question: why do people think it's
 hard to come up with ideas for startups?
 That might seem a stupid thing to ask.  Why do they
 think
 it's hard?  If people can't do it, then it
 is
-hard, at least&#13;
+hard, at least
 for them.  Right?
-Well, maybe not.  What people usually say is not that they can't&#13;
-think of ideas, but that they don't have any.  That's not quite the&#13;
-same thing.  It could be the reason they don't have any is that&#13;
+Well, maybe not.  What people usually say is not that they can't
+think of ideas, but that they don't have any.  That's not quite the
+same thing.  It could be the reason they don't have any is that
 they haven't tried to generate them.
-I think this is often the case.  I think people believe that coming&#13;
+I think this is often the case.  I think people believe that coming
 up with ideas for startups is very hard-- that it
 must
-be&#13;
-very hard-- and so they don't try do to it.  They assume ideas are&#13;
+be
+very hard-- and so they don't try do to it.  They assume ideas are
 like miracles: they either pop into your head or they don't.
-I also have a theory about why people think this.  They overvalue&#13;
-ideas.  They think creating a startup is just a matter of implementing&#13;
-some fabulous initial idea.  And since a successful startup is worth&#13;
+I also have a theory about why people think this.  They overvalue
+ideas.  They think creating a startup is just a matter of implementing
+some fabulous initial idea.  And since a successful startup is worth
 millions of dollars, a good idea is therefore a million dollar idea.
-If coming up with an idea for a startup equals coming up with a&#13;
-million dollar idea, then of course it's going to seem hard.  Too&#13;
-hard to bother trying.  Our instincts tell us something so valuable&#13;
+If coming up with an idea for a startup equals coming up with a
+million dollar idea, then of course it's going to seem hard.  Too
+hard to bother trying.  Our instincts tell us something so valuable
 would not be just lying around for anyone to discover.
-Actually, startup ideas are not million dollar ideas, and here's&#13;
-an experiment you can try to prove it: just try to sell one.  Nothing&#13;
-evolves faster than markets.  The fact that there's no market for&#13;
-startup ideas suggests there's no demand.  Which means, in the&#13;
+Actually, startup ideas are not million dollar ideas, and here's
+an experiment you can try to prove it: just try to sell one.  Nothing
+evolves faster than markets.  The fact that there's no market for
+startup ideas suggests there's no demand.  Which means, in the
 narrow sense of the word, that startup ideas are worthless.
 Questions
-The fact is, most startups end up nothing like the initial idea.&#13;
-It would be closer to the truth to say the main value of your initial&#13;
-idea is that, in the process of discovering it's broken, you'll&#13;
+The fact is, most startups end up nothing like the initial idea.
+It would be closer to the truth to say the main value of your initial
+idea is that, in the process of discovering it's broken, you'll
 come up with your real idea.
-The initial idea is just a starting point-- not a blueprint, but a&#13;
-question.  It might help if they were expressed that way.  Instead&#13;
-of saying that your idea is to make a collaborative, web-based&#13;
-spreadsheet, say: could one make a collaborative, web-based&#13;
-spreadsheet?  A few grammatical tweaks, and a woefully incomplete&#13;
+The initial idea is just a starting point-- not a blueprint, but a
+question.  It might help if they were expressed that way.  Instead
+of saying that your idea is to make a collaborative, web-based
+spreadsheet, say: could one make a collaborative, web-based
+spreadsheet?  A few grammatical tweaks, and a woefully incomplete
 idea becomes a promising question to explore.
-There's a real difference, because an assertion provokes objections&#13;
-in a way a question doesn't.  If you say: I'm going to build a&#13;
-web-based spreadsheet, then critics-- the most dangerous of which&#13;
-are in your own head-- will immediately reply that you'd be competing&#13;
-with Microsoft, that you couldn't give people the kind of UI they&#13;
-expect, that users wouldn't want to have their data on your servers,&#13;
+There's a real difference, because an assertion provokes objections
+in a way a question doesn't.  If you say: I'm going to build a
+web-based spreadsheet, then critics-- the most dangerous of which
+are in your own head-- will immediately reply that you'd be competing
+with Microsoft, that you couldn't give people the kind of UI they
+expect, that users wouldn't want to have their data on your servers,
 and so on.
-A question doesn't seem so challenging.  It becomes: let's try&#13;
-making a web-based spreadsheet and see how far we get.  And everyone&#13;
+A question doesn't seem so challenging.  It becomes: let's try
+making a web-based spreadsheet and see how far we get.  And everyone
 knows that if you tried this you'd be able to make
 something
-useful.  Maybe what you'd end up with wouldn't even be a spreadsheet.&#13;
-Maybe it would be some kind of new spreadsheet-like collaboration&#13;
-tool that doesn't even have a name yet.  You wouldn't have thought&#13;
+useful.  Maybe what you'd end up with wouldn't even be a spreadsheet.
+Maybe it would be some kind of new spreadsheet-like collaboration
+tool that doesn't even have a name yet.  You wouldn't have thought
 of something like that except by implementing your way toward it.
-Treating a startup idea as a question changes what you're looking&#13;
-for.  If an idea is a blueprint, it has to be right.  But if it's&#13;
-a question, it can be wrong, so long as it's wrong in a way that&#13;
+Treating a startup idea as a question changes what you're looking
+for.  If an idea is a blueprint, it has to be right.  But if it's
+a question, it can be wrong, so long as it's wrong in a way that
 leads to more ideas.
-One valuable way for an idea to be wrong is to be only a partial&#13;
-solution.  When someone's working on a problem that seems too&#13;
-big, I always ask: is there some way to bite off some subset of the&#13;
-problem, then gradually expand from there?  That will generally&#13;
-work unless you get trapped on a local maximum, like 1980s-style&#13;
+One valuable way for an idea to be wrong is to be only a partial
+solution.  When someone's working on a problem that seems too
+big, I always ask: is there some way to bite off some subset of the
+problem, then gradually expand from there?  That will generally
+work unless you get trapped on a local maximum, like 1980s-style
 AI, or C.
 Upwind
-So far, we've reduced the problem from thinking of a million dollar&#13;
-idea to thinking of a mistaken question.  That doesn't seem so hard,&#13;
+So far, we've reduced the problem from thinking of a million dollar
+idea to thinking of a mistaken question.  That doesn't seem so hard,
 does it?
-To generate such questions you need two things: to be familiar with &#13;
-promising new technologies, and to have the right kind of friends.&#13;
-New technologies are the ingredients startup ideas are made of, and&#13;
+To generate such questions you need two things: to be familiar with 
+promising new technologies, and to have the right kind of friends.
+New technologies are the ingredients startup ideas are made of, and
 conversations with friends are the kitchen they're cooked in.
-Universities have both, and that's why so many startups grow out&#13;
-of them.  They're filled with new technologies, because they're&#13;
-trying to produce research, and only things that are new count as&#13;
-research.  And they're full of exactly the right kind of people to   &#13;
-have ideas with: the other students, who will be not only smart but&#13;
+Universities have both, and that's why so many startups grow out
+of them.  They're filled with new technologies, because they're
+trying to produce research, and only things that are new count as
+research.  And they're full of exactly the right kind of people to   
+have ideas with: the other students, who will be not only smart but
 elastic-minded to a fault.
-The opposite extreme would be a well-paying but boring job at a big&#13;
-company.  Big companies are biased against new technologies, and&#13;
+The opposite extreme would be a well-paying but boring job at a big
+company.  Big companies are biased against new technologies, and
 the people you'd meet there would be wrong too.
 In an
 essay
-I wrote for high school students,  &#13;
-I said a good rule of thumb was to stay upwind-- to&#13;
-work on things that maximize your future options. The principle&#13;
-applies for adults too, though perhaps it has to be modified to:&#13;
-stay upwind for as long as you can, then cash in the potential&#13;
+I wrote for high school students,  
+I said a good rule of thumb was to stay upwind-- to
+work on things that maximize your future options. The principle
+applies for adults too, though perhaps it has to be modified to:
+stay upwind for as long as you can, then cash in the potential
 energy you've accumulated when you need to pay for kids.
-I don't think people consciously realize this, but one reason&#13;
-downwind jobs like churning out Java for a bank pay so well is   &#13;
-precisely that they are downwind.  The market price for that kind&#13;
-of work is higher because it gives you fewer options for the future.&#13;
-A job that lets you work on exciting new stuff will tend to pay&#13;
-less, because part of the compensation is in the form of the new&#13;
+I don't think people consciously realize this, but one reason
+downwind jobs like churning out Java for a bank pay so well is   
+precisely that they are downwind.  The market price for that kind
+of work is higher because it gives you fewer options for the future.
+A job that lets you work on exciting new stuff will tend to pay
+less, because part of the compensation is in the form of the new
 skills you'll learn.
-Grad school is the other end of the spectrum from a coding job at&#13;
-a big company: the pay's low but you spend most of your time working&#13;
-on new stuff.  And of course, it's called "school," which makes&#13;
-that clear to everyone, though in fact all jobs are some percentage&#13;
+Grad school is the other end of the spectrum from a coding job at
+a big company: the pay's low but you spend most of your time working
+on new stuff.  And of course, it's called "school," which makes
+that clear to everyone, though in fact all jobs are some percentage
 school.
-The right environment for having startup ideas need not be a&#13;
-university per se.  It just has to be a situation with a large&#13;
+The right environment for having startup ideas need not be a
+university per se.  It just has to be a situation with a large
 percentage of school.
-It's obvious why you want exposure to new technology, but why do &#13;
-you need other people?  Can't you just think of new ideas yourself?&#13;
-The empirical answer is: no.  Even Einstein needed people to bounce&#13;
-ideas off.  Ideas get developed in the process of explaining them&#13;
-to the right kind of person.  You need that resistance, just&#13;
+It's obvious why you want exposure to new technology, but why do 
+you need other people?  Can't you just think of new ideas yourself?
+The empirical answer is: no.  Even Einstein needed people to bounce
+ideas off.  Ideas get developed in the process of explaining them
+to the right kind of person.  You need that resistance, just
 as a carver needs the resistance of the wood.
-This is one reason Y Combinator has a rule against investing in &#13;
-startups with only one founder.  Practically every successful company&#13;
-has at least two.  And because startup founders work under great   &#13;
+This is one reason Y Combinator has a rule against investing in 
+startups with only one founder.  Practically every successful company
+has at least two.  And because startup founders work under great   
 pressure, it's critical they be friends.
-I didn't realize it till I was writing this, but that may help&#13;
-explain why there are so few female startup founders.  I read on&#13;
-the Internet (so it must be true) that only 1.7% of VC-backed&#13;
-startups are founded by women.  The percentage of female hackers&#13;
+I didn't realize it till I was writing this, but that may help
+explain why there are so few female startup founders.  I read on
+the Internet (so it must be true) that only 1.7% of VC-backed
+startups are founded by women.  The percentage of female hackers
 is small, but not that small.  So why the discrepancy?
-When you realize that successful startups tend to have multiple&#13;
-founders who were already friends, a&#13;
-possible explanation emerges.  People's best friends are likely to  &#13;
+When you realize that successful startups tend to have multiple
+founders who were already friends, a
+possible explanation emerges.  People's best friends are likely to  
 be of the same sex, and if one group is a minority in some population,
 pairs
 of them will be a minority squared.
@@ -44342,283 +45202,283 @@ of them will be a minority squared.
 1
 ]
 Doodling
-What these groups of co-founders do together is more complicated &#13;
-than just sitting down and trying to think of ideas.  I suspect the  &#13;
-most productive setup is a kind of together-alone-together sandwich.&#13;
-Together you talk about some hard problem, probably getting nowhere.&#13;
-Then, the next morning, one of you has an idea in the shower about&#13;
-how to solve it.  He runs eagerly to to tell the others, and together&#13;
+What these groups of co-founders do together is more complicated 
+than just sitting down and trying to think of ideas.  I suspect the  
+most productive setup is a kind of together-alone-together sandwich.
+Together you talk about some hard problem, probably getting nowhere.
+Then, the next morning, one of you has an idea in the shower about
+how to solve it.  He runs eagerly to to tell the others, and together
 they work out the kinks.
-What happens in that shower?  It seems to me that ideas just pop&#13;
+What happens in that shower?  It seems to me that ideas just pop
 into my head.  But can we say more than that?
-Taking a shower is like a form of meditation.  You're alert, but&#13;
-there's nothing to distract you.  It's in a situation like this,&#13;
+Taking a shower is like a form of meditation.  You're alert, but
+there's nothing to distract you.  It's in a situation like this,
 where your mind is free to roam, that it bumps into new ideas.
-What happens when your mind wanders?  It may be like doodling.  Most&#13;
-people have characteristic ways of doodling.  This habit is  &#13;
-unconscious, but not random: I found my doodles changed after I &#13;
-started studying painting.  I started to make the kind of gestures&#13;
-I'd make if I were drawing from life.  They were atoms of drawing,  &#13;
+What happens when your mind wanders?  It may be like doodling.  Most
+people have characteristic ways of doodling.  This habit is  
+unconscious, but not random: I found my doodles changed after I 
+started studying painting.  I started to make the kind of gestures
+I'd make if I were drawing from life.  They were atoms of drawing,  
 but arranged randomly.
 [
 2
 ]
-Perhaps letting your mind wander is like doodling with ideas.  You&#13;
-have certain mental gestures you've learned in your work, and when&#13;
-you're not paying attention, you keep making these same gestures,   &#13;
-but somewhat randomly.  In effect, you call the same functions on&#13;
-random arguments.  That's what a metaphor is: a function applied   &#13;
+Perhaps letting your mind wander is like doodling with ideas.  You
+have certain mental gestures you've learned in your work, and when
+you're not paying attention, you keep making these same gestures,   
+but somewhat randomly.  In effect, you call the same functions on
+random arguments.  That's what a metaphor is: a function applied   
 to an argument of the wrong type.
-Conveniently, as I was writing this, my mind wandered: would it be&#13;
-useful to have metaphors in a programming language?  I don't know;&#13;
-I don't have time to think about this.  But it's convenient because&#13;
-this is an example of what I mean by habits of mind.  I spend a lot&#13;
-of time thinking about language design, and my habit of always   &#13;
-asking "would x be useful in a programming language" just got&#13;
+Conveniently, as I was writing this, my mind wandered: would it be
+useful to have metaphors in a programming language?  I don't know;
+I don't have time to think about this.  But it's convenient because
+this is an example of what I mean by habits of mind.  I spend a lot
+of time thinking about language design, and my habit of always   
+asking "would x be useful in a programming language" just got
 invoked.
-If new ideas arise like doodles, this would explain why you have&#13;
-to work at something for a while before you have any.  It's not&#13;
-just that you can't judge ideas till you're an expert in a field.&#13;
-You won't even generate ideas, because you won't have any habits&#13;
+If new ideas arise like doodles, this would explain why you have
+to work at something for a while before you have any.  It's not
+just that you can't judge ideas till you're an expert in a field.
+You won't even generate ideas, because you won't have any habits
 of mind to invoke.
-Of course the habits of mind you invoke on some field don't have&#13;
-to be derived from working in that field.  In fact, it's often&#13;
-better if they're not.  You're not just looking for good ideas, but&#13;
+Of course the habits of mind you invoke on some field don't have
+to be derived from working in that field.  In fact, it's often
+better if they're not.  You're not just looking for good ideas, but
 for good
 new
-ideas, and you have a better chance of generating&#13;
-those if you combine stuff from distant fields.  As hackers, one&#13;
-of our habits of mind is to ask, could one open-source x?  For  &#13;
-example, what if you made an open-source operating system?  A fine&#13;
-idea, but not very novel.  Whereas if you ask, could you make an&#13;
+ideas, and you have a better chance of generating
+those if you combine stuff from distant fields.  As hackers, one
+of our habits of mind is to ask, could one open-source x?  For  
+example, what if you made an open-source operating system?  A fine
+idea, but not very novel.  Whereas if you ask, could you make an
 open-source play?  you might be onto something.
-Are some kinds of work better sources of habits of mind than others?&#13;
-I suspect harder fields may be better sources, because to attack&#13;
-hard problems you need powerful solvents.  I find math is a good&#13;
-source of metaphors-- good enough that it's worth studying just for&#13;
-that.  Related fields are also good sources, especially when they're&#13;
-related in unexpected ways.  Everyone knows computer science and&#13;
-electrical engineering are related, but precisely because everyone&#13;
-knows it, importing ideas from one to the other doesn't yield great&#13;
-profits.  It's like importing something from Wisconsin to Michigan.  &#13;
+Are some kinds of work better sources of habits of mind than others?
+I suspect harder fields may be better sources, because to attack
+hard problems you need powerful solvents.  I find math is a good
+source of metaphors-- good enough that it's worth studying just for
+that.  Related fields are also good sources, especially when they're
+related in unexpected ways.  Everyone knows computer science and
+electrical engineering are related, but precisely because everyone
+knows it, importing ideas from one to the other doesn't yield great
+profits.  It's like importing something from Wisconsin to Michigan.  
 Whereas (I claim) hacking and
 painting
-are&#13;
+are
 also related, in the sense that hackers and painters are both
 makers
-,&#13;
+,
 and this source of new ideas is practically virgin territory.
 Problems
-In theory you could stick together ideas at random and see what you&#13;
-came up with.  What if you built a peer-to-peer dating site?  Would&#13;
-it be useful to have an automatic book?  Could you turn theorems&#13;
-into a commodity?  When you assemble ideas at random like this, &#13;
-they may not be just stupid, but semantically ill-formed.  What &#13;
-would it even mean to make theorems a commodity?  You got me.  I&#13;
+In theory you could stick together ideas at random and see what you
+came up with.  What if you built a peer-to-peer dating site?  Would
+it be useful to have an automatic book?  Could you turn theorems
+into a commodity?  When you assemble ideas at random like this, 
+they may not be just stupid, but semantically ill-formed.  What 
+would it even mean to make theorems a commodity?  You got me.  I
 didn't think of that idea, just its name.
-You might come up with something useful this way, but I never have.&#13;
-It's like knowing a fabulous sculpture is hidden inside a block of&#13;
-marble, and all you have to do is remove the marble that isn't part&#13;
-of it.  It's an encouraging thought, because it reminds you there   &#13;
-is an answer, but it's not much use in practice because the search&#13;
+You might come up with something useful this way, but I never have.
+It's like knowing a fabulous sculpture is hidden inside a block of
+marble, and all you have to do is remove the marble that isn't part
+of it.  It's an encouraging thought, because it reminds you there   
+is an answer, but it's not much use in practice because the search
 space is too big.
-I find that to have good ideas I need to be working on some problem.&#13;
-You can't start with randomness.  You have to start with a problem,&#13;
+I find that to have good ideas I need to be working on some problem.
+You can't start with randomness.  You have to start with a problem,
 then let your mind wander just far enough for new ideas to form.
-In a way, it's harder to see problems than their solutions.  Most  &#13;
-people prefer to remain in denial about problems.  It's obvious&#13;
-why: problems are irritating.  They're problems!  Imagine if people&#13;
-in 1700 saw their lives the way we'd see them.  It would have been&#13;
-unbearable.  This denial is such a powerful force that, even when &#13;
-presented with possible solutions, people often prefer to believe&#13;
+In a way, it's harder to see problems than their solutions.  Most  
+people prefer to remain in denial about problems.  It's obvious
+why: problems are irritating.  They're problems!  Imagine if people
+in 1700 saw their lives the way we'd see them.  It would have been
+unbearable.  This denial is such a powerful force that, even when 
+presented with possible solutions, people often prefer to believe
 they wouldn't work.
-I saw this phenomenon when I worked on spam filters.  In 2002, most&#13;
-people preferred to ignore spam, and most of those who didn't&#13;
-preferred to believe the heuristic filters then available were the&#13;
+I saw this phenomenon when I worked on spam filters.  In 2002, most
+people preferred to ignore spam, and most of those who didn't
+preferred to believe the heuristic filters then available were the
 best you could do.
-I found spam intolerable, and I felt it had to be possible to&#13;
-recognize it statistically.  And it turns out that was all you  &#13;
-needed to solve the problem.  The algorithm I used was ridiculously&#13;
-simple.  Anyone who'd really tried to solve the problem would have&#13;
-found it.  It was just that no one had really tried to solve the&#13;
+I found spam intolerable, and I felt it had to be possible to
+recognize it statistically.  And it turns out that was all you  
+needed to solve the problem.  The algorithm I used was ridiculously
+simple.  Anyone who'd really tried to solve the problem would have
+found it.  It was just that no one had really tried to solve the
 problem.
 [
 3
 ]
-Let me repeat that recipe: finding the problem intolerable and  &#13;
-feeling it must be possible to solve it.  Simple as it seems, that's&#13;
+Let me repeat that recipe: finding the problem intolerable and  
+feeling it must be possible to solve it.  Simple as it seems, that's
 the recipe for a lot of startup ideas.
 Wealth
-So far most of what I've said applies to ideas in general.  What's  &#13;
-special about startup ideas?  Startup ideas are ideas for companies,&#13;
-and companies have to make money.  And the way to make money is to&#13;
+So far most of what I've said applies to ideas in general.  What's  
+special about startup ideas?  Startup ideas are ideas for companies,
+and companies have to make money.  And the way to make money is to
 make something people want.
-Wealth is what people want.  I don't mean that as some kind of  &#13;
+Wealth is what people want.  I don't mean that as some kind of  
 philosophical statement; I mean it as a tautology.
-So an idea for a startup is an idea for something people want.&#13;
-Wouldn't any good idea be something people want?  Unfortunately &#13;
-not.  I think new theorems are a fine thing to create, but there&#13;
-is no great demand for them.  Whereas there appears to be great&#13;
-demand for celebrity gossip magazines.  Wealth is defined democratically.&#13;
-Good ideas and valuable ideas are not quite the same thing; the&#13;
+So an idea for a startup is an idea for something people want.
+Wouldn't any good idea be something people want?  Unfortunately 
+not.  I think new theorems are a fine thing to create, but there
+is no great demand for them.  Whereas there appears to be great
+demand for celebrity gossip magazines.  Wealth is defined democratically.
+Good ideas and valuable ideas are not quite the same thing; the
 difference is individual tastes.
-But valuable ideas are very close to good ideas, especially in&#13;
-technology.  I think they're so close that you can get away with&#13;
-working as if the goal were to discover good ideas, so long as, in&#13;
-the final stage, you stop and ask: will people actually pay for &#13;
-this?  Only a few ideas are likely to make it that far and then get&#13;
+But valuable ideas are very close to good ideas, especially in
+technology.  I think they're so close that you can get away with
+working as if the goal were to discover good ideas, so long as, in
+the final stage, you stop and ask: will people actually pay for 
+this?  Only a few ideas are likely to make it that far and then get
 shot down; RPN calculators might be one example.
-One way to make something people want is to look at stuff people   &#13;
-use now that's broken.  Dating sites are a prime example.  They   &#13;
-have millions of users, so they must be promising something people &#13;
-want.  And yet they work horribly.  Just ask anyone who uses them.  &#13;
-It's as if they used the worse-is-better approach but stopped after&#13;
+One way to make something people want is to look at stuff people   
+use now that's broken.  Dating sites are a prime example.  They   
+have millions of users, so they must be promising something people 
+want.  And yet they work horribly.  Just ask anyone who uses them.  
+It's as if they used the worse-is-better approach but stopped after
 the first stage and handed the thing over to marketers.
-Of course, the most obvious breakage in the average computer user's &#13;
-life is Windows itself.  But this is a special case: you can't&#13;
-defeat a monopoly by a frontal attack.  Windows can and will be     &#13;
-overthrown, but not by giving people a better desktop OS.  The way&#13;
-to kill it is to redefine the problem as a superset of the current &#13;
-one.  The problem is not, what operating system should people use&#13;
-on desktop computers?  but how should people use applications?&#13;
-There are answers to that question that don't even involve desktop&#13;
+Of course, the most obvious breakage in the average computer user's 
+life is Windows itself.  But this is a special case: you can't
+defeat a monopoly by a frontal attack.  Windows can and will be     
+overthrown, but not by giving people a better desktop OS.  The way
+to kill it is to redefine the problem as a superset of the current 
+one.  The problem is not, what operating system should people use
+on desktop computers?  but how should people use applications?
+There are answers to that question that don't even involve desktop
 computers.
-Everyone thinks Google is going to solve this problem, but it is a&#13;
-very subtle one, so subtle that a company as big as Google might&#13;
-well get it wrong.  I think the odds are better than 50-50 that the&#13;
-Windows killer-- or more accurately, Windows transcender-- will&#13;
+Everyone thinks Google is going to solve this problem, but it is a
+very subtle one, so subtle that a company as big as Google might
+well get it wrong.  I think the odds are better than 50-50 that the
+Windows killer-- or more accurately, Windows transcender-- will
 come from some little startup.
-Another classic way to make something people want is to take a&#13;
-luxury and make it into a commmodity.  People must want something&#13;
-if they pay a lot for it.  And it is a very rare product that can't&#13;
+Another classic way to make something people want is to take a
+luxury and make it into a commmodity.  People must want something
+if they pay a lot for it.  And it is a very rare product that can't
 be made dramatically cheaper if you try.
-This was Henry Ford's plan.  He made cars, which had been a luxury&#13;
-item, into a commodity.  But the idea is much older than Henry Ford.&#13;
-Water mills transformed mechanical power from a luxury into a&#13;
-commodity, and they were used in the Roman empire.  Arguably&#13;
+This was Henry Ford's plan.  He made cars, which had been a luxury
+item, into a commodity.  But the idea is much older than Henry Ford.
+Water mills transformed mechanical power from a luxury into a
+commodity, and they were used in the Roman empire.  Arguably
 pastoralism transformed a luxury into a commodity.
-When you make something cheaper you can sell more of them.  But if&#13;
-you make something dramatically cheaper you often get qualitative&#13;
-changes, because people start to use it in different ways.  For&#13;
-example, once computers get so cheap that most people can have one&#13;
+When you make something cheaper you can sell more of them.  But if
+you make something dramatically cheaper you often get qualitative
+changes, because people start to use it in different ways.  For
+example, once computers get so cheap that most people can have one
 of their own, you can use them as communication devices.
-Often to make something dramatically cheaper you have to redefine &#13;
-the problem.  The Model T didn't have all the features previous&#13;
-cars did.  It only came in black, for example.  But it solved the&#13;
-problem people cared most about, which was getting from place to&#13;
+Often to make something dramatically cheaper you have to redefine 
+the problem.  The Model T didn't have all the features previous
+cars did.  It only came in black, for example.  But it solved the
+problem people cared most about, which was getting from place to
 place.
-One of the most useful mental habits I know I learned from Michael&#13;
-Rabin: that the best way to solve a problem is often to redefine&#13;
-it.  A lot of people use this technique without being consciously&#13;
-aware of it, but Rabin was spectacularly explicit.  You need a big&#13;
-prime number?  Those are pretty expensive.  How about if I give you&#13;
-a big number that only has a 10 to the minus 100 chance of not being&#13;
-prime?  Would that do?  Well, probably; I mean, that's probably&#13;
+One of the most useful mental habits I know I learned from Michael
+Rabin: that the best way to solve a problem is often to redefine
+it.  A lot of people use this technique without being consciously
+aware of it, but Rabin was spectacularly explicit.  You need a big
+prime number?  Those are pretty expensive.  How about if I give you
+a big number that only has a 10 to the minus 100 chance of not being
+prime?  Would that do?  Well, probably; I mean, that's probably
 smaller than the chance that I'm imagining all this anyway.
-Redefining the problem is a particularly juicy heuristic when you&#13;
-have competitors, because it's so hard for rigid-minded people to &#13;
-follow.  You can work in plain sight and they don't realize the &#13;
-danger.  Don't worry about us. We're just working on search.  Do   &#13;
+Redefining the problem is a particularly juicy heuristic when you
+have competitors, because it's so hard for rigid-minded people to 
+follow.  You can work in plain sight and they don't realize the 
+danger.  Don't worry about us. We're just working on search.  Do   
 one thing and do it well, that's our motto.
-Making things cheaper is actually a subset of a more general&#13;
-technique: making things easier.  For a long time it was most of  &#13;
-making things easier, but now that the things we build are so&#13;
-complicated, there's another rapidly growing subset: making things  &#13;
+Making things cheaper is actually a subset of a more general
+technique: making things easier.  For a long time it was most of  
+making things easier, but now that the things we build are so
+complicated, there's another rapidly growing subset: making things  
 easier to
 use
 .
-This is an area where there's great room for improvement.  What you&#13;
-want to be able to say about technology is: it just works.  How&#13;
+This is an area where there's great room for improvement.  What you
+want to be able to say about technology is: it just works.  How
 often do you say that now?
-Simplicity takes effort-- genius, even.  The average programmer   &#13;
-seems to produce UI designs that are almost willfully bad. I was   &#13;
-trying to use the stove at my mother's house a couple weeks ago. &#13;
-It was a new one, and instead of physical knobs it had buttons and&#13;
-an LED display.  I tried pressing some buttons I thought would cause&#13;
-it to get hot, and you know what it said?  "Err."  Not even "Error."&#13;
+Simplicity takes effort-- genius, even.  The average programmer   
+seems to produce UI designs that are almost willfully bad. I was   
+trying to use the stove at my mother's house a couple weeks ago. 
+It was a new one, and instead of physical knobs it had buttons and
+an LED display.  I tried pressing some buttons I thought would cause
+it to get hot, and you know what it said?  "Err."  Not even "Error."
 "Err."  You can't just say "Err" to the user of a
 stove
-.&#13;
-You should design the UI so that errors are impossible.  And the  &#13;
-boneheads who designed this stove even had an example of such a UI&#13;
-to work from: the old one.  You turn one knob to set the temperature&#13;
-and another to set the timer.  What was wrong with that?  It just&#13;
+.
+You should design the UI so that errors are impossible.  And the  
+boneheads who designed this stove even had an example of such a UI
+to work from: the old one.  You turn one knob to set the temperature
+and another to set the timer.  What was wrong with that?  It just
 worked.
-It seems that, for the average engineer, more options just means&#13;
-more rope to hang yourself.  So if you want to start a startup, you&#13;
-can take almost any existing technology produced by a big company, &#13;
+It seems that, for the average engineer, more options just means
+more rope to hang yourself.  So if you want to start a startup, you
+can take almost any existing technology produced by a big company, 
 and assume you could build something way easier to use.
 Design for Exit
-Success for a startup approximately equals getting bought.  You&#13;
-need some kind of exit strategy, because you can't get the smartest&#13;
-people to work for you without giving them options likely to be&#13;
-worth something.  Which means you either have to get bought or go&#13;
+Success for a startup approximately equals getting bought.  You
+need some kind of exit strategy, because you can't get the smartest
+people to work for you without giving them options likely to be
+worth something.  Which means you either have to get bought or go
 public, and the number of startups that go public is very small.
-If success probably means getting bought, should you make that a&#13;
-conscious goal?  The old answer was no: you were supposed to pretend&#13;
-that you wanted to create a giant, public company, and act surprised&#13;
-when someone made you an offer.  Really, you want to buy us? Well,&#13;
+If success probably means getting bought, should you make that a
+conscious goal?  The old answer was no: you were supposed to pretend
+that you wanted to create a giant, public company, and act surprised
+when someone made you an offer.  Really, you want to buy us? Well,
 I suppose we'd consider it, for the right price.
-I think things are changing.  If 98% of the time success means   &#13;
-getting bought, why not be open about it?  If 98% of the time you're&#13;
-doing product development on spec for some big company, why not&#13;
-think of that as your task?  One advantage of this approach is that&#13;
-it gives you another source of ideas: look at big companies, think&#13;
+I think things are changing.  If 98% of the time success means   
+getting bought, why not be open about it?  If 98% of the time you're
+doing product development on spec for some big company, why not
+think of that as your task?  One advantage of this approach is that
+it gives you another source of ideas: look at big companies, think
 what they
 should
-be doing, and do it yourself.  Even if&#13;
+be doing, and do it yourself.  Even if
 they already know it, you'll probably be done faster.
-Just be sure to make something multiple acquirers will want.  Don't&#13;
-fix Windows, because the only potential acquirer is Microsoft, and  &#13;
-when there's only one acquirer, they don't have to hurry.  They can&#13;
-take their time and copy you instead of buying you.  If you want&#13;
+Just be sure to make something multiple acquirers will want.  Don't
+fix Windows, because the only potential acquirer is Microsoft, and  
+when there's only one acquirer, they don't have to hurry.  They can
+take their time and copy you instead of buying you.  If you want
 to get market price, work on something where there's competition.
-If an increasing number of startups are created to do product&#13;
-development on spec, it will be a natural counterweight to monopolies.&#13;
-Once some type of technology is captured by a monopoly, it will    &#13;
-only evolve at big company rates instead of startup rates, whereas&#13;
-alternatives will evolve with especial speed.  A free market&#13;
+If an increasing number of startups are created to do product
+development on spec, it will be a natural counterweight to monopolies.
+Once some type of technology is captured by a monopoly, it will    
+only evolve at big company rates instead of startup rates, whereas
+alternatives will evolve with especial speed.  A free market
 interprets monopoly as damage and routes around it.
 The Woz Route
-The most productive way to generate startup ideas is also the&#13;
-most unlikely-sounding: by accident.  If you look at how famous&#13;
-startups got started, a lot of them weren't initially supposed to  &#13;
-be startups.  Lotus began with a program Mitch Kapor wrote for a&#13;
-friend. Apple got started because Steve Wozniak wanted to build&#13;
-microcomputers, and his employer, Hewlett-Packard, wouldn't let him&#13;
-do it at work.  Yahoo began as David Filo's personal collection of&#13;
+The most productive way to generate startup ideas is also the
+most unlikely-sounding: by accident.  If you look at how famous
+startups got started, a lot of them weren't initially supposed to  
+be startups.  Lotus began with a program Mitch Kapor wrote for a
+friend. Apple got started because Steve Wozniak wanted to build
+microcomputers, and his employer, Hewlett-Packard, wouldn't let him
+do it at work.  Yahoo began as David Filo's personal collection of
 links.
-This is not the only way to start startups.  You can sit down and&#13;
-consciously come up with an idea for a company; we did.  But measured&#13;
-in total market cap, the build-stuff-for-yourself model might be  &#13;
-more fruitful.  It certainly has to be the most fun way to come up&#13;
-with startup ideas.  And since a startup ought to have multiple&#13;
-founders who were already friends before they decided to start a &#13;
-company, the rather surprising conclusion is that the best way to   &#13;
-generate startup ideas is to do what hackers do for fun: cook up&#13;
+This is not the only way to start startups.  You can sit down and
+consciously come up with an idea for a company; we did.  But measured
+in total market cap, the build-stuff-for-yourself model might be  
+more fruitful.  It certainly has to be the most fun way to come up
+with startup ideas.  And since a startup ought to have multiple
+founders who were already friends before they decided to start a 
+company, the rather surprising conclusion is that the best way to   
+generate startup ideas is to do what hackers do for fun: cook up
 amusing hacks with your friends.
-It seems like it violates some kind of conservation law, but there&#13;
-it is: the best way to get a "million dollar idea" is just to do&#13;
+It seems like it violates some kind of conservation law, but there
+it is: the best way to get a "million dollar idea" is just to do
 what hackers enjoy doing anyway.
 Notes
 [
 1
-]&#13;
-This phenomenon may account for a number of discrepancies&#13;
-currently blamed on various forbidden isms.  Never attribute to    &#13;
+]
+This phenomenon may account for a number of discrepancies
+currently blamed on various forbidden isms.  Never attribute to    
 malice what can be explained by math.
 [
 2
-]   &#13;
-A lot of classic abstract expressionism is doodling of this type:&#13;
-artists trained to paint from life using the same gestures but&#13;
-without using them to represent anything.  This explains why such&#13;
+]   
+A lot of classic abstract expressionism is doodling of this type:
+artists trained to paint from life using the same gestures but
+without using them to represent anything.  This explains why such
 paintings are (slightly) more interesting than random marks would be.
 [
 3
-]&#13;
-Bill Yerazunis had solved the problem, but he got there by&#13;
-another path.  He made a general-purpose file classifier so good&#13;
+]
+Bill Yerazunis had solved the problem, but he got there by
+another path.  He made a general-purpose file classifier so good
 that it also worked for spam.Want to start a startup?
 Get funded by
 Y Combinator
